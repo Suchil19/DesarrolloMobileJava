@@ -8,8 +8,6 @@ Esta primera sesión  comenzaremos con la **introducción** al desarrollo movil 
 
 1. Presentación de los miembros del curso
 
-2. Precedentes Java  
+2. Precedentes Java   
 
-3. Pensamiento lógico computacional  
-
-4. Hablando acerca del pensamiento lógico computacional  
+3. Conociendo el pensamiento lógico computacional  
