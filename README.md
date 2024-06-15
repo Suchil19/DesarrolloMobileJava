@@ -1,7 +1,7 @@
 # Módulo: A1 - Java para Mobile
 
 * Podrás configurar tu entorno de desarrollo y conocerás las bases para comprender con ejercicios prácticos cómo funciona el lenguaje de programación Java en Android. 
-    _ Recuerda que la mejor forma de mejorar tu código es practicando.
+* Recuerda que la mejor forma de mejorar tu código es practicando.
 
 
 ## Temario
