@@ -1,4 +1,4 @@
-# Sesión 02 Pilares del Pensamiento Lógico Computacional
+# Sesión 02 - Pilares del Pensamiento Lógico Computacional
 
 El pensamiento computacional es una habilidad mental que nos permite analizar y resolver problemas de manera sistemática y lógica, este pensamiento tiene cuatro pilares fundamentales.
 

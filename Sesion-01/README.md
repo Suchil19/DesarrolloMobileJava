@@ -15,6 +15,12 @@ Daremos un repaso sobre la historia de Java desde su creación hasta su ultima v
 3. Aplicaciones con Java <br>
 Finalmente hablaremos de las aplicaciones más populares desarrolladas en Java.
 
+## Actividad
+
+- Observar la práctica que el experto abrira frente al grupo para platicar sobre los proyectos en Android Studio
+
+- [Ejercicio presentado en clase - Sesion 01](practica)
+
 ## Presentación
 
 - [Presentación - Sesión 01](presentaciones)
