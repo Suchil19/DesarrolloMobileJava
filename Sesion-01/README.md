@@ -7,9 +7,8 @@ Esta primera sesión  comenzaremos con la **introducción** al desarrollo móvil
 
 ##  Temas
 
-1. Presentación de los miembros del curso.<br>
-La actividad será la siguiente: te presentaras con tus compañeros empezando por tu nombre, área en la que trabajas o estudias y mencionaras un dato curioso sobre ti (puede ser un logro académico, un hobby o algo que te parezca relevante para compartir), esta dinámica es importante para el experto y tus compañeros ya que de esta manera podrán conocerte mejor. 
+1. Presentación de los miembros del curso. La actividad será la siguiente:<br> Te presentaras con tus compañeros empezando por tu nombre, área en la que trabajas o estudias y mencionaras un dato curioso sobre ti (puede ser un logro académico, un hobby o algo que te parezca relevante para compartir), esta dinámica es importante para el experto y tus compañeros ya que de esta manera podrán conocerte mejor. 
 
-2. Precedentes Java   
+2. Antecedentes Java   
 
 3. Aplicaciones con Java
