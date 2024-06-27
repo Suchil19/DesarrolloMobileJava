@@ -1,4 +1,5 @@
 # Sesión 04 - Estructura de aplicaciones
+Después de que el alumno configuro su entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. 
 
 ## 🎯 Objetivo
 
@@ -17,4 +18,8 @@ Es muy importante entender cómo es que funcionan las aplicaciones. En este sent
 * Content Providers: Gestionan datos de la aplicación.  
  
 
-### Proyectos en clase
+### Instrucciones
+
+1. Después de que el alumno configuro su entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. Se creara un nuevo proyecto en Android Studio y vamos a elegir la opcion de “Empty Activity”, vamos a elegir el lenguaje de programación Java y nombraremos a este proyecto con el nombre de “Activity”.
+
+2. Después de que el alumno configuro su entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. 
