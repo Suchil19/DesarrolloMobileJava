@@ -1,4 +1,4 @@
-# Sesión 03 - Introducción a Android Studio
+# Sesión 03 - Fundamentos Android e Introducción a Android Studio
 En esta sesion empezaremos a configurar e identificar la estructura de un proyecto básico de Android.
 
 ## 🎯 Objetivo
