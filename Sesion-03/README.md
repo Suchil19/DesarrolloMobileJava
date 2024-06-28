@@ -34,6 +34,6 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 
 4. Vamos a explorar las partes que conforman nuestro proyecto. Recuerda que aquí encontrarás la práctica.
 
-![Práctica 01](Practica-01)
+Práctica 01(Practica-01)
 
 
