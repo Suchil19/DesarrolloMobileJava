@@ -3,7 +3,7 @@
 
 ## 🎯 Objetivo
 
-El alumno descargará Android Studio, configurará y conocerá el entorno de desarrollo Android. 
+El alumno descargar Android Studio, configurará y conocerá el entorno de desarrollo Android. 
 
 * También podrá crear nuevos proyectos en Android Studio. 
 
@@ -26,10 +26,14 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 
     a. Ingresamos un nombre para nuestra apliación.
 
-    b. Ingresamos un nombre para tu equipo. **(Todo tu equipo debe usar el mismo nombre).**
+    b. Selecionar **Java** como lenguaje de la aplicación.
 
-    c. Selecionar **Java** como lenguaje de la aplicación.
+    c. En la opción Minimum API level, seleccionar el SDK: **Nougat**
 
-    d. En la opción Minimum API level, seleccionar el SDK: **KitKat**
+![Listando todos los documentos de una colección](img/02.png)
 
- ![Listando todos los documentos de una colección](img/configuracionAppControl.png)
+4. Vamos a explorar las partes que conforman nuestro proyecto. Recuerda que aquí encontrarás la práctica.
+
+![Listando todos los documentos de una colección](Practica-01)
+
+
