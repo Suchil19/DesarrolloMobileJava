@@ -1,11 +1,12 @@
 # Módulo: A1 - Java para Mobile
 
 ## 👋 Bienvenid@s
- - El objetivo de este módulo es que seas capaz de crear tu propia App por medio de Android, utilizando el lenguaje Java.
- <br>
-* Podrás configurar tu entorno de desarrollo y conocerás las bases para comprender con ejercicios cómo funciona el lenguaje de programación Java en Android. 
-<br>
-* Recuerda que la mejor forma de mejorar tu código es practicando.
+- El objetivo de este módulo es que seas capaz de crear tu propia App por medio de Android, utilizando el lenguaje Java. 
+
+<ul>
+<li>Podrás configurar tu entorno de desarrollo y conocerás las bases para comprender con ejercicios cómo funciona el lenguaje de programación Java en Android.</li>
+<li>Recuerda que la mejor forma de mejorar tu código es practicando.</li>
+</ul>
 
 ## 💻 Retos
 
