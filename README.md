@@ -12,10 +12,10 @@ El objetivo de este curso de desarrollo de lenguaje Java tiene como objetivo que
 
 ## Temario
 
-1. [Sesion 01]&nbsp;(Sesion-01)Presentación e Introducción a Java (Conceptos Básicos)
-2. [Sesion 02](Sesion-02)Pensamiento Lógico Computacional,Fundamentos de Android e Introducción a Android Studio
-3. [Sesion 03](Sesion-03)Arquitectura de Android: Entornos de Desarrollo Android Studio
-4. [Sesion 04](Sesion-04)Tipos de datos y control de versiones
+1. [Sesion 01](Sesion-02)&nbsp;(Sesion-01)Presentación e Introducción a Java (Conceptos Básicos)
+2. [Sesion 02](Sesion-02)&nbsp;Pensamiento Lógico Computacional,Fundamentos de Android e Introducción a Android Studio
+3. [Sesion 03](Sesion-03)&nbsp;Arquitectura de Android: Entornos de Desarrollo Android Studio
+4. [Sesion 04](Sesion-04)&nbsp;Tipos de datos y control de versiones
 5. Estructura de aplicaciones
 6. Codificando en Java
 7. Programación de Actividades
