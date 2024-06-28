@@ -15,7 +15,7 @@ Esta primera sesión  comenzaremos con la **introducción** al desarrollo móvil
 3. ¿Qué es Java?<br>
     * Es un lenguaje de programación apliamente utilizado para el desarrollo de software, aplicaciones móviles, macrodatos y tecnologías del servidor, es rápido, seguro y confiable.
 
-    [Java](img/java-logo.png)
+    ![Java](img/java-logo.png)
 
 4. Antecedentes Java.<br>
 Daremos un repaso sobre la historia de Java desde su creación hasta su última versión. 
