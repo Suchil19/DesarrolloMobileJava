@@ -1,17 +1,33 @@
 # Módulo: A1 - Java para Mobile
 
 ## 👋 Bienvenid@s
-- El objetivo de este módulo es que seas capaz de crear tu propia App por medio de Android, utilizando el lenguaje Java. 
+- Al finalizar este módulo serás capaz de crear tu propia App por medio de Android, configurando tu entorno de desarrollo, comprendiendo y utilizando mediante ejercicios prácticos el lenguaje Java en Android.
 
 <ul>
-<li>Podrás configurar tu entorno de desarrollo y conocerás las bases para comprender con ejercicios cómo funciona el lenguaje de programación Java en Android.</li>
-<li>Recuerda que la mejor forma de mejorar tu código es practicando.</li>
+    <li>
+    Podrás configurar tu entorno de desarrollo y conocerás las bases para comprender con ejercicios cómo funciona el lenguaje de programación Java en Android.
+    </li>
+    <li>
+    Recuerda que la mejor forma de mejorar tu código es practicando.
+    </li>
 </ul>
 
-## 💻 Retos
+## Requerimientos
+A continuación se muestran los requsitos mínimos para poder usar AndroidStudio de manera correcta.<br>
+<ul>
+    <li> Microsoft® Windows® 8/10/11 de 64 bits </li>
+    <li> Arquitectura de CPU x86_64; procesador Intel Core de segunda generación o posterior, o CPU AMD compatible con un hipervisor de Windows </li>
+    <li>8 GB de RAM o más </li>
+    <li>8 GB de espacio disponible en el disco como mínimo (IDE + SDK de Android + Android Emulator) </li>
+</ul>
 
-El objetivo de este curso de desarrollo de lenguaje Java tiene como objetivo que practiques tus habilidades a través de retos enfocados en aplicaciones móviles para Android. 
 
+## 💻 Proyecto Final
+
+El objetivo de este curso de desarrollo de lenguaje Java tiene como objetivo que practiques tus habilidades a través de prácticas enfocadas en aplicaciones móviles para Android. 
+
+Este módulo se va a evaluar de la siguiente manera:
+ 
 ## Temario
 
 1. [Sesion 01](Sesion-01)&nbsp;Presentación e Introducción a Java (Conceptos Básicos)

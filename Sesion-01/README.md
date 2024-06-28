@@ -26,7 +26,11 @@ Daremos un repaso sobre la historia de Java desde su creación hasta su última 
     * El futuro de Java
 
 5. Aplicaciones con Java <br>
-Finalmente hablaremos de las aplicaciones más populares desarrolladas en Java.
+Finalmente hablaremos de las aplicaciones más populares desarrolladas en Java, a continuación algunas de las mas populares.
+    * WorldWind
+    * Minecraft
+    * IntelliJ IDEA, NeatBeans
+    * VisibleTesla
 
 ## Actividad
 
