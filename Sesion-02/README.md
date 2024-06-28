@@ -25,4 +25,4 @@ Después de repasar los pilares del pensamiento lógico computacional junto con 
 
 ## Presentación
 
-- [Presentación - Sesión 02](presentaciones)
+- [Presentación - Sesión 02](presentacion/Sesion-01.pptx)
