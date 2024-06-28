@@ -23,4 +23,4 @@ Finalmente hablaremos de las aplicaciones más populares desarrolladas en Java.
 
 ## Presentación
 
-- [Presentación - Sesión 01](presentaciones)
+- [Presentación - Sesión 01](presentacion/Sesion-01.pptx)
