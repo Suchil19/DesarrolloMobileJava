@@ -3,7 +3,7 @@ Bienvenido a tu primera sesión de este módulo, vamos a presentarnos frente al 
 
 ## 🎯 Objetivo
 
-Esta primera sesión  comenzaremos con la **introducción** al desarrollo móvil con **Java**, platicaremos las fases que contiene el desarrollo, hablaremos de los precedentes del desarrollo en el Sistema Operativo Android y lo más importante será conocer a nuestros compañeros.
+Esta primera sesión comezarás con la **introducción** al desarrollo móvil con **Java**,aaprenderáslas fases que contiene el desarrollo, conocerás los precedentes del desarrollo en el Sistema Operativo Android y lo más importante será conocer a nuestros compañeros.
 
 ![Android Studio](img/02.png)
 
@@ -45,7 +45,7 @@ Finalmente hablaremos de las aplicaciones más populares desarrolladas en Java, 
 
 ## Actividad
 
-- Observar la práctica que el experto abrira frente al grupo para platicar sobre los proyectos en Android Studio
+- Observar la práctica que el experto mostrará frente al grupo para platicar sobre los proyectos en Android Studio
 
 - [Ejercicio presentado en clase - Sesion 01](practica)
 

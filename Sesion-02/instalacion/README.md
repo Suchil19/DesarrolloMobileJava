@@ -1,12 +1,12 @@
-# Sesión 02 - Pilares del Pensamiento Lógico Computacional  e Introducción a Android Studio
+# Sesión 02 - Instrucciones para Instalar Android Studio
 
-En esta sesión conocerás los pilares del pensamiento lógico computacional y después empezaremos la instalación de nuestro entorno de desarrollo
+Antes de comenzar recuerda que estos son los requisitos minimos para una correcta instalación.
 
 ## Pilares del Pensamiento Lógico Computacional
 
 El pensamiento lógico computacional es una habilidad mental que nos permite analizar y resolver problemas de manera sistemática y lógica, este pensamiento tiene cuatro pilares fundamentales.
 
-## 🎯 Objetivo
+## Requisitos del sistema para Android Studio
 
 Conocer los pilares del pensamiento lógico computacional que nos permitirá resolver de problemas de nuestra vida cotidiana y llevar esta lógica de resolución de problemas al mundo digital, los pilares son los siguientes: 
 
@@ -47,3 +47,4 @@ Tener acceso a Internet en la computadora
 ## Organización de la clase
 
 - [Presentación - Sesión 02](presentacion/Sesion-01.pptx)
+- [Instrucciones - Instalación](instalacion/README.md)
