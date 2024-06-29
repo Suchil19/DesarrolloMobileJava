@@ -23,8 +23,8 @@ Conocer los pilares del pensamiento lógico computacional que nos permitirá res
 Después de repasar los pilares del pensamiento lógico computacional junto con un compañer@ realiza el análisis ocupando estos cuatro pilares  sobre un tema propuesto por algún compañero.
 
 ## AndroidStudio
-
-
+Android Studio es un entorno de desarrollo especializado en la creación de herramientas y apps para el sistema operativo Android.
+![AndroidStudio](img/01.png)
 ## Presentación
 
 - [Presentación - Sesión 02](presentacion/Sesion-01.pptx)
