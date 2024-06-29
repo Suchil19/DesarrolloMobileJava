@@ -38,6 +38,6 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 
 ## Presentación
 
-- [Presentación - Sesión 01](presentaciones)
+- [Presentación - Sesión 01](presentacion/Sesion-01.pptx)
 
 

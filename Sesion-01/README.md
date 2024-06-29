@@ -1,5 +1,5 @@
 # Sesión 01 - Introducción al desarrollo móvil con Java 
-Bienvenido a tu primera sesión de este módulo, nos presentaremos y platicaremos sobre java. 
+Bienvenido a tu primera sesión de este módulo, vamos a presentarnos frente al grupo y platicaremos sobre java. 
 
 ## 🎯 Objetivo
 
@@ -15,17 +15,26 @@ Esta primera sesión  comenzaremos con la **introducción** al desarrollo móvil
 3. ¿Qué es Java?<br>
     * Es un lenguaje de programación apliamente utilizado para el desarrollo de software, aplicaciones móviles, macrodatos y tecnologías del servidor, es rápido, seguro y confiable.
 
-    ![Java](img/java-logo.png)
+    ![Java](img/01.png)
 
 4. Antecedentes Java.<br>
-Daremos un repaso sobre la historia de Java desde su creación hasta su última versión. 
+Daremos un repaso sobre la historia de Java desde su creación hasta su última versión.
+
     * Nacimiento del lenguaje
     * Primera versión
     * Revolución en el desarrollo de software 
     * Actualizaciones
     * El futuro de Java
 
-5. Aplicaciones con Java <br>
+5. ¿Para qué se utiliza el lenguaje de programación Java?
+    Java es un lenguaje versátil y de uso gratuito. Algunos usos comunes de Java incluyen:
+
+    * Desarrollo de videojuegos
+    * Macrodatos
+    * Inteligencia artificial
+    * Internet de las cosas
+
+6. Aplicaciones con Java <br>
 Finalmente hablaremos de las aplicaciones más populares desarrolladas en Java, a continuación algunas de las mas populares.
     * WorldWind
     * Minecraft
