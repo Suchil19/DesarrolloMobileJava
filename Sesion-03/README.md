@@ -36,7 +36,7 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 
 [Práctica 01](Practica-01)
 
-## Presentación
+## 📝 Organización de la clase
 
 - [Presentación - Sesión 01](presentacion/Sesion-01.pptx)
 

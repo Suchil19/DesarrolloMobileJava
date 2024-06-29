@@ -49,6 +49,6 @@ Finalmente hablaremos de las aplicaciones más populares desarrolladas en Java, 
 
 - [Ejercicio presentado en clase - Sesion 01](practica)
 
-## Presentación
+## 📝 Organización de la clase
 
 - [Presentación - Sesión 01](presentacion/Sesion-01.pptx)
