@@ -5,7 +5,7 @@ Bienvenido a tu primera sesión de este módulo, vamos a presentarnos frente al 
 
 Esta primera sesión  comenzaremos con la **introducción** al desarrollo móvil con **Java**, platicaremos las fases que contiene el desarrollo, hablaremos de los precedentes del desarrollo en el Sistema Operativo Android y lo más importante será conocer a nuestros compañeros.
 
-![Android Studio](img/03.png)
+![Android Studio](img/02.png)
 
 ##  Temas
 
