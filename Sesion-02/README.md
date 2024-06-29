@@ -39,13 +39,15 @@ Un IDE contiene herramientas que permiten a los desarrolladores de software dise
 * Tener conocimientos de informática intermedios, archivos y carpetas, además de saber usar apps (como las de hojas de cálculo, procesadores de texto o editores de fotos).
 * Ser capaz de descargar, instalar y actualizar software.
 
-## Qué necesitarás
+## ¿Qué necesitarás?
 
 Una computadora que ejecute una versión de 64 bits de Windows (8, 10 u 11), Linux, macOS (10.14 Mojave o una versión posterior) o Chrome OS
 Tener acceso a Internet en la computadora.
 <br>
 
-Las Instrucciones
+## Las instrucciones de instalación estan a continuación.
+
+- [Instrucciones - Instalación](instalacion/README.md)
 
 ## 📝 Organización de la clase
 
