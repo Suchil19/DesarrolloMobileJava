@@ -2,46 +2,61 @@
 
 Antes de comenzar recuerda que estos son los requisitos minimos para una correcta instalación.
 
-## Pilares del Pensamiento Lógico Computacional
+<ul>
+    <li> Microsoft® Windows® 8/10/11 de 64 bits </li>
+    <li> Arquitectura de CPU x86_64; procesador Intel Core de segunda generación o posterior, o CPU AMD compatible con un hipervisor de Windows </li>
+    <li>8 GB de RAM o más </li>
+    <li>8 GB de espacio disponible en el disco como mínimo (IDE + SDK de Android + Android Emulator) </li>
+</ul>
 
-El pensamiento lógico computacional es una habilidad mental que nos permite analizar y resolver problemas de manera sistemática y lógica, este pensamiento tiene cuatro pilares fundamentales.
+## Verificar los requisitos del sistema (Windows 10)
 
-## Requisitos del sistema para Android Studio
+A continuación se muestran los pasos que tienes que seguir para una correcta instalación.
 
-Conocer los pilares del pensamiento lógico computacional que nos permitirá resolver de problemas de nuestra vida cotidiana y llevar esta lógica de resolución de problemas al mundo digital, los pilares son los siguientes: 
+1. Abre Configuración.
+2. Haz clic en Sistema.
+3. En la parte inferior del panel de navegación de la izquierda, haz clic en Acerca de.
+4. Asegúrate de que las especificaciones de Windows cumplan o superen los requisitos.
 
-1. Descomposición:<br>
-    - Ruptura de un problema en partes más pequeñas.
-
-2. Reconocimiento de patrones:<br>
-    - "Mirar similitudes que se comparten"
-
-3. Abstracción:<br>
-    - Concentrase en la parte más importante de un problema.
-
-4. Algoritmos: <br>
-    - Plan o conjunto de instrucciones para resolver un problema
-
-# Actividad
-
-Después de repasar los pilares del pensamiento lógico computacional junto con un compañer@ realiza el análisis ocupando estos cuatro pilares  sobre un tema propuesto por algún compañero.
-
-## AndroidStudio
-Android Studio es un entorno de desarrollo especializado en la creación de herramientas y apps para el sistema operativo Android.
 ![AndroidStudio](img/01.png)
 
-## Vamos a instalar Android Studio
+5. Selecciona Especificaciones del dispositivo. Asegúrate de que la RAM instalada sea, al menos, la requerida, y que el tipo de sistema sea la versión de 64 bits del sistema operativo.
 
-Un IDE contiene herramientas que permiten a los desarrolladores de software diseñar, compilar, ejecutar y probar software. En este caso, apps para la plataforma de Android. Android Studio usa IntelliJ IDEA como base, además del complemento para Android preinstalado con algunas modificaciones específicas para la plataforma de Android.
+![AndroidStudio](img/02.png)
 
-## Requisitos Previos
+6. En el panel de navegación, haz clic en Pantalla. Asegúrate de que la Resolución sea la requerida o una mejor.
 
-* Tener conocimientos de informática intermedios, archivos y carpetas, además de saber usar apps (como las de hojas de cálculo, procesadores de texto o editores de fotos).
-* Ser capaz de descargar, instalar y actualizar software.
+![AndroidStudio](img/03.png)
 
-## Qué necesitarás
+## Como descargarlo
 
-Una computadora que ejecute una versión de 64 bits de Windows (8, 10 u 11), Linux, macOS (10.14 Mojave o una versión posterior) o Chrome OS
-Tener acceso a Internet en la computadora
+<p>Abre tu navegador y accede al siguiente enlace <a href="https://developer.android.com/studio?hl=es-419#get-android-studio">Descarga Android Studio</a></p>
 
-## Organización de la clase
+1. Haz clic en Download Android Studio. Se abrirá la página de los Términos y Condiciones con el Contrato de licencia de Android Studio.
+2. En la parte inferior de la página, selecciona la casilla de verificación I have read and agree with the above terms and conditions si estás de acuerdo con los Términos y Condiciones.
+3. Haz clic en Download Android Studio para iniciar la descarga.
+4. Cuando se te indique, guarda el archivo en una ubicación donde puedas localizarlo con facilidad, como la carpeta Downloads.
+
+## Instalación
+
+1. Abre la carpeta donde descargaste y guardaste el archivo de instalación de Android Studio.
+2. Haz doble clic en el archivo descargado.
+3. Si se muestra el diálogo User Account Control para permitir que la instalación realice cambios en tu computadora, haz clic en Yes para confirmar la instalación.
+
+![AndroidStudio](img/04.png)
+
+Despúes tendrás que dar siguiente a todas las ventanas que se abran durante la instalación
+
+![AndroidStudio](img/05.png)
+
+## Por último
+
+Durante la instalación, el asistente de configuración descarga e instala componentes y herramientas adicionales que se necesitan en el desarrollo de apps para Android. Según la velocidad de tu conexión a Internet, es posible que este proceso demore un poco. Durante este período, es posible que veas un diálogo de User Account Control para el Procesador de comandos de Windows. Haz clic en Yes (Sí) para aceptar el cuadro de diálogo.
+
+![AndroidStudio](img/06.png)
+
+## Felicidades
+
+Ahora ya tienes tu entorno de desarrollo instalado correctamente.
+
+![AndroidStudio](img/07.png)

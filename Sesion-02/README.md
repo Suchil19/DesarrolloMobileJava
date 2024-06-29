@@ -42,9 +42,12 @@ Un IDE contiene herramientas que permiten a los desarrolladores de software dise
 ## Qué necesitarás
 
 Una computadora que ejecute una versión de 64 bits de Windows (8, 10 u 11), Linux, macOS (10.14 Mojave o una versión posterior) o Chrome OS
-Tener acceso a Internet en la computadora
+Tener acceso a Internet en la computadora.
+<br>
 
-## Organización de la clase
+Las Instrucciones
+
+## 📝 Organización de la clase
 
 - [Presentación - Sesión 02](presentacion/Sesion-01.pptx)
 - [Instrucciones - Instalación](instalacion/README.md)
