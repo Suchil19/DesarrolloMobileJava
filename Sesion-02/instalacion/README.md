@@ -45,6 +45,3 @@ Una computadora que ejecute una versión de 64 bits de Windows (8, 10 u 11), Lin
 Tener acceso a Internet en la computadora
 
 ## Organización de la clase
-
-- [Presentación - Sesión 02](presentacion/Sesion-01.pptx)
-- [Instrucciones - Instalación](instalacion/README.md)

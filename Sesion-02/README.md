@@ -22,11 +22,11 @@ Conocer los pilares del pensamiento lógico computacional que nos permitirá res
 4. Algoritmos: <br>
     - Plan o conjunto de instrucciones para resolver un problema
 
-# Actividad
+## Actividad
 
 Después de repasar los pilares del pensamiento lógico computacional junto con un compañer@ realiza el análisis ocupando estos cuatro pilares  sobre un tema propuesto por algún compañero.
 
-## AndroidStudio
+# AndroidStudio
 Android Studio es un entorno de desarrollo especializado en la creación de herramientas y apps para el sistema operativo Android.
 ![AndroidStudio](img/01.png)
 
@@ -47,3 +47,4 @@ Tener acceso a Internet en la computadora
 ## Organización de la clase
 
 - [Presentación - Sesión 02](presentacion/Sesion-01.pptx)
+- [Instrucciones - Instalación](instalacion/README.md)
