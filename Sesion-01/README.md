@@ -7,6 +7,8 @@ Esta primera sesión comezarás con la **introducción** al desarrollo móvil co
 
 ![Android Studio](img/02.png)
 
+ figura 1 imagen de Android Studio [^1].
+
 ##  Temas
 
 1. Presentación del experto.

@@ -24,9 +24,16 @@ A continuación se muestran los requsitos mínimos para poder usar AndroidStudio
 
 ## 💻 Proyecto Final
 
-El objetivo de este curso de desarrollo de lenguaje Java tiene como objetivo que practiques tus habilidades a través de prácticas enfocadas en aplicaciones móviles para Android. 
+* El objetivo de este curso de desarrollo de lenguaje Java tiene como objetivo que practiques tus habilidades a través de prácticas enfocadas en aplicaciones móviles para Android. 
 
-Este módulo se va a evaluar de la siguiente manera:
+* En este módulo tienes la oportunidad de crear tu propia App por medio de Android, utilizando el lenguaje java. 
+
+Este módulo se va a evaluar con un proyecto usando los siguientes temas:
+el footr
+- Coficicación en Java
+- Control de versiones
+- Interfaces Gráficas
+- Uso de servicios
  
 ## Temario
 
