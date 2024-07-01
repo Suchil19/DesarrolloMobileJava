@@ -4,12 +4,12 @@
 
 Antes de comenzar recuerda que estos son los requisitos minimos para una correcta instalación.
 
-    <ul>
-        <li> Microsoft® Windows® 8/10/11 de 64 bits </li>
-        <li> Arquitectura de CPU x86_64; procesador Intel Core de segunda generación o posterior, o CPU AMD compatible con un hipervisor de Windows </li>
-        <li>8 GB de RAM o más </li>
-        <li>4 GB de espacio disponible en el disco como mínimo </li>
-    </ul>
+<ul>
+    <li> Microsoft® Windows® 8/10/11 de 64 bits </li>
+    <li> Arquitectura de CPU x86_64; procesador Intel Core de segunda generación o posterior, o CPU AMD compatible con un hipervisor de Windows </li>
+    <li>8 GB de RAM o más </li>
+    <li>4 GB de espacio disponible en el disco como mínimo </li>
+</ul>
 
 ## Verificar los requisitos del sistema (Windows 10)
 
