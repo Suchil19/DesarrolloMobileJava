@@ -1,4 +1,4 @@
-# Sesión 02 - Pilares del Pensamiento Lógico Computacional  e Introducción a Android Studio
+# Sesión 02 - Pilares del Pensamiento Lógico Computacional  e Instalación de Android Studio
 
 En esta sesión conocerás los pilares del pensamiento lógico computacional y después empezaremos la instalación de nuestro entorno de desarrollo
 
@@ -26,7 +26,7 @@ Conocer los pilares del pensamiento lógico computacional que nos permitirá res
 
 Después de repasar los pilares del pensamiento lógico computacional junto con un compañer@ realiza el análisis ocupando estos cuatro pilares  sobre un tema propuesto por algún compañero.
 
-# AndroidStudio
+# Comienza la instalación de AndroidStudio
 Android Studio es un entorno de desarrollo especializado en la creación de herramientas y apps para el sistema operativo Android.
 ![AndroidStudio](img/01.png)
 
@@ -37,9 +37,10 @@ Un IDE contiene herramientas que permiten a los desarrolladores de software dise
 ## Requisitos Previos
 
 * Tener conocimientos de informática intermedios, archivos y carpetas, además de saber usar apps (como las de hojas de cálculo, procesadores de texto o editores de fotos).
+
 * Ser capaz de descargar, instalar y actualizar software.
 
-## ¿Qué necesitarás?
+## ¿Qué necesitas?
 
 Una computadora que ejecute una versión de 64 bits de Windows (8, 10 u 11), Linux, macOS (10.14 Mojave o una versión posterior) o Chrome OS
 Tener acceso a Internet en la computadora.
@@ -53,3 +54,4 @@ Tener acceso a Internet en la computadora.
 
 - [Presentación - Sesión 02](presentacion/Sesion-01.pptx)
 - [Instrucciones - Instalación](instalacion/README.md)
+- [Instrucciones - Alternativa Emulador](alternativa-emulador/README.md)

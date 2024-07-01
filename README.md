@@ -29,7 +29,7 @@ A continuación se muestran los requsitos mínimos para poder usar AndroidStudio
 * En este módulo tienes la oportunidad de crear tu propia App por medio de Android, utilizando el lenguaje java. 
 
 Este módulo se va a evaluar con un proyecto usando los siguientes temas:
-el footr
+
 - Coficicación en Java
 - Control de versiones
 - Interfaces Gráficas
