@@ -3,11 +3,7 @@ En esta sesion empezaremos a configurar e identificar la estructura de un proyec
 
 ## 🎯 Objetivo
 
-El alumno descargar Android Studio, configurará y conocerá el entorno de desarrollo Android. 
-
-* También podrá crear nuevos proyectos en Android Studio. 
-
-* El alumno se familiarizará con la interfaz de Android Studio. 
+Despúes de que descargaste Android Studio en esta sesión aprenderás como configurar tu entorno de desarrollo, crear nuevos proyectos y te vas a familiarizar con la interfaz de Android Studio.
 
 ### Proyectos en clase
 
@@ -18,7 +14,6 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 <hr>
  2. A continuación elegimos el templete para nuestra apliación, en nuestro caso elegimos **“Empty Activity”**.
  ![Creando Proyecto Android Studio](img/04.png)
- ### **Nota:**
 
  Primero dominaremos los templetes básicos,posteriormente podrás intentar con otros estilos de templetes.
  <hr>

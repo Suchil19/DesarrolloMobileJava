@@ -54,4 +54,4 @@ Tener acceso a Internet en la computadora.
 
 - [Presentación - Sesión 02](presentacion/Sesion-01.pptx)
 - [Instrucciones - Instalación Android Studio](instalacion/README.md)
-- [Instrucciones - Alternativa Emulador](alternativa-emulador/README.md)
+- [Instrucciones - Alternativa Emulador (Opcional)](alternativa-emulador/README.md)
