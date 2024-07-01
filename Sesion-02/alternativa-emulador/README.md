@@ -1,6 +1,8 @@
 # Sesión 02 - Instrucciones para Instalar Alternativa de Emulador "Memu"
 
-Antes de comenzar recuerda que estos son los requisitos minimos para una correcta instalación.
+* Puedes instalar una versión mas ligera de emulación para tus practicas, a continuación te dejamos las instrucciones para que puedas descargarlo e instalarlo.
+
+* Antes de comenzar recuerda que estos son los requisitos minimos para una correcta instalación.
 
 <ul>
     <li> Microsoft® Windows® 8/10/11 de 64 bits </li>
