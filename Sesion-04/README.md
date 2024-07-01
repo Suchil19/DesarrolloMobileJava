@@ -1,28 +1,11 @@
 # Sesión 04 - Tipos de Datos y control de versiones
-Después de que configuraste tu entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. 
+Después de que configuraste tu entorno de desarrollo podrá ser capaz de crear un nuevo proyecto 
 
 ## 🎯 Objetivo
 
-Conocer la estructura de una aplicación Android.
-
-Es muy importante entender cómo es que funcionan las aplicaciones. En este sentido, debes entender y aplicar correctamente debemos conocer los componentes principales de la aplicación como Activities, Services, Broadcast Receivers y Content Providers.  
-
-* El alumno visualizara y comprenderá los siguientes terminos 
-
-* Activities: Son los bloques de construcción en las aplicaciones Android. Un Activity representa una pantalla donde el usuario podrá interactuar. 
-
-* Services: Un Service es un componente que se ejecuta en segundo plano. 
-
-* Broadcast Receivers: podremos recibir alertas del mismo dispositivo o de otros dispositivos. 
-
-* Content Providers: Gestionan datos de la aplicación.  
- 
 
 ### Instrucciones
 
-1. Después de que el alumno configuro su entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. Se creara un nuevo proyecto en Android Studio y vamos a elegir la opcion de “Empty Activity”, vamos a elegir el lenguaje de programación Java y nombraremos a este proyecto con el nombre de “Activity”.
-
-2. Después de que el alumno configuro su entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. 
 
 # Control de Versiones
 
@@ -32,12 +15,13 @@ Usarás un control de versiones para tus proyectos y también un repositorio don
 
 # ¿Qué es Git?
 
-- Git es un sistema de control de versiones distribuido, lo que significa que podemos usar un repositorio de control de versiones completo. Estos repositorios permiten trabajar sin conexión o de forma remota con facilidad.
+Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos. Git es especialmente útil cuando un grupo de personas y tú estáis haciendo cambios en los mismos archivos al mismo tiempo, y algunas de sus principales funciones son las siguientes:
+
 - Git te permite poder controlar todos los cambios que se hacen en nuestra aplicación y en nuestro código
 - Con Git puedes trabajar de manera colaborativa.
 - Tendrás un listado de los cambios(commits) y podemos volver a cualquiera de esos cambios o commits.
 
-![Git](instalacion-git/README.md)
+[Instalación paso a paso Git](instalacion-git/README.md)
 
 # ¿Qué es Github?
 
@@ -53,7 +37,22 @@ Usarás un control de versiones para tus proyectos y también un repositorio don
 
 * El trabajo colaborativo, una de las características fundamentales de GitHub, es posible gracias al software de código abierto Git, en el que se basa GitHub.
 
-![Github](instalacion-github/README.md)
+[Intalación paso a paso Github](instalacion-github/README.md)
+
+# ¿Cómo funcionan Git y GitHub juntos? 
+
+- Al cargar archivos en GitHub, los almacenas en un "repositorio de Git". Esto significa que al realizar cambios (o "compromisos") en los archivos de GitHub, Git se iniciará automáticamente para realizar un seguimiento y administrar los cambios.
+
+- Hay muchas acciones relacionadas con Git que puedes completar en GitHub directamente en el navegador, como crear un repositorio de Git, crear ramas y cargar y editar archivos.
+
+- Sin embargo, la mayoría de las personas trabajan en sus archivos localmente (en su propio ordenador), luego sincronizan continuamente estos cambios locales y todos los datos de Git relacionados, con el repositorio central "remoto" en GitHub. Hay muchas herramientas que puedes usar para hacerlo, como GitHub Desktop.
+
+- Cuando empieces a colaborar con otros y todos necesitéis trabajar en el mismo repositorio al mismo tiempo, haréis lo siguiente continuamente:
+
+- Extraer todos los cambios más recientes realizados por los colaboradores del repositorio remoto en GitHub.
+Transferir de vuelta los cambios al mismo repositorio remoto en GitHub.
+Git determina cómo combinar inteligentemente este flujo de cambios y GitHub te ayuda a administrar el flujo a través de características como "solicitudes de cambios".
+
 
 
 ## 🎯 Objetivo
