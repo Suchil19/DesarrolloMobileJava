@@ -3,7 +3,7 @@ Te damos la bienvenida a esta sesión de introducción a Java como lenguaje de p
 
 ## 🎯 Objetivo
 
-Esta primera sesión comezarás con la **introducción** al desarrollo móvil con **Java**,aaprenderáslas fases que contiene el desarrollo, conocerás los precedentes del desarrollo en el Sistema Operativo Android y lo más importante será conocer a nuestros compañeros.
+Esta primera sesión comezarás con la **introducción** al desarrollo móvil con **Java**,aprenderáslas fases que contiene el desarrollo, conocerás los precedentes del desarrollo en el Sistema Operativo Android y lo más importante será conocer a nuestros compañeros.
 
 ![Android Studio](img/02.png)
 
