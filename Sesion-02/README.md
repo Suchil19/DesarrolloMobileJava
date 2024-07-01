@@ -48,10 +48,10 @@ Tener acceso a Internet en la computadora.
 
 ## Las instrucciones de instalación estan a continuación.
 
-- [Instrucciones - Instalación](instalacion/README.md)
+- [Instrucciones - Instalación Android Studio](instalacion/README.md)
 
 ## 📝 Organización de la clase
 
 - [Presentación - Sesión 02](presentacion/Sesion-01.pptx)
-- [Instrucciones - Instalación](instalacion/README.md)
+- [Instrucciones - Instalación Android Studio](instalacion/README.md)
 - [Instrucciones - Alternativa Emulador](alternativa-emulador/README.md)

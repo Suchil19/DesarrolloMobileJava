@@ -1,5 +1,5 @@
 # Sesión 04 - Estructura de aplicaciones
-Después de que el alumno configuro su entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. 
+Después de que configuraste tu entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. 
 
 ## 🎯 Objetivo
 
