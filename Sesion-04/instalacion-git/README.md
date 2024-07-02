@@ -7,7 +7,13 @@
 
 ![Decargar Git](img/01.png)
 
+Ahora vamos a abrir una terminal desde nuestro escritorio y vamos a escribir git --version
+
 ![Comprobar la versión instalada](img/02.png)
 
 ![Abrir una terminal en Android Studio](img/03.png)
+
+![Git init](img/04.png)
+
+![Git add .](img/05.png)
 
