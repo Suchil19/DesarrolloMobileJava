@@ -20,6 +20,9 @@ Tienes que crear un archivo de java llamado variables dentro de tu proyecto como
 
 Ahora tienes que correr tu programa para mostrar el print que quieras mostrar, a continuación los ejemplos que veremos en la práctica, primero vas a identificar como se escribe un comentario, como se observa en la siguiente imagen.
 
+ 
+## Datos Enteros (Int)
+ 
   ![Creando Proyecto Android Studio](img/p01.png)
 
   Ahora vamos a comenzar a hablar de los valores **enteros** este grupo incluye byte, short, int y long. Estos tipos de datos nos permiten trabajar con números enteros ya sean positivos o negativos.
