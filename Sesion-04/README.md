@@ -4,25 +4,6 @@ Después de que configuraste tu entorno de desarrollo podrá ser capaz de crear 
 ## 🎯 Objetivo
 Aprender a crear un nuevo proyecto de Java ádemas de Manejar Git y GitHub para el control de versiones.
 
-### Instrucciones
- 
-
-# Control de Versiones
-
-## Git y Github
-
-Usarás un control de versiones para tus proyectos y también un repositorio donde puedes trabajar de manera colaborativa.
-
-# ¿Qué es Git?
-
-Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos. Git es especialmente útil cuando un grupo de personas y tú estáis haciendo cambios en los mismos archivos al mismo tiempo, y algunas de sus principales funciones son las siguientes:
-
-- Git te permite poder controlar todos los cambios que se hacen en nuestra aplicación y en nuestro código
-- Con Git puedes trabajar de manera colaborativa.
-- Tendrás un listado de los cambios(commits) y podemos volver a cualquiera de esos cambios o commits.
-
-[Instalación paso a paso Git](instalacion-git/README.md)
-
 # ¿Qué es Github?
 
 - GitHub es una plataforma donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código
@@ -37,7 +18,18 @@ Git es un sistema de control de versiones que realiza un seguimiento de los camb
 
 * El trabajo colaborativo, una de las características fundamentales de GitHub, es posible gracias al software de código abierto Git, en el que se basa GitHub.
 
-[Intalación paso a paso Github](instalacion-github/README.md)
+[Configuración de Github paso a paso](instalacion-github/README.md)
+
+
+# ¿Qué es Git?
+
+Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos. Git es especialmente útil cuando un grupo de personas y tú estáis haciendo cambios en los mismos archivos al mismo tiempo, y algunas de sus principales funciones son las siguientes:
+
+- Git te permite poder controlar todos los cambios que se hacen en nuestra aplicación y en nuestro código
+- Con Git puedes trabajar de manera colaborativa.
+- Tendrás un listado de los cambios(commits) y podemos volver a cualquiera de esos cambios o commits.
+
+[Instalación paso a paso Git](instalacion-git/README.md)
 
 # ¿Cómo funcionan Git y GitHub juntos? 
 
@@ -54,8 +46,8 @@ Transferir de vuelta los cambios al mismo repositorio remoto en GitHub.
 Git determina cómo combinar inteligentemente este flujo de cambios y GitHub te ayuda a administrar el flujo a través de características como "solicitudes de cambios".
 
 
-
-## 🎯 Objetivo
-
-
 ## 📝 Organización de la clase
+
+- [Presentación - Sesión 03](presentacion/Sesion-03.pptx)
+- [Instrucciones - Configuración Github](instalacion-github/README.md)
+- [Instrucciones - Instalación de Git)](instalacion-git/README.md)

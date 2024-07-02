@@ -1,6 +1,6 @@
-## Control de versiones
+## Control de versiones con Git
 
-
+Aprenderás a usar Git para subir y actualizar tus repositorios de manera fácil y rápida
 
 ## Instalación
 <p>Abre tu navegador y accede al siguiente enlace <a href="https://git-scm.com/download/win">Descarga Git</a></p> y selecciona la opción de 64 bit de esta manera un archivo comenzará su descarga, basta con ejecutarlo e instalarlo.
@@ -38,7 +38,7 @@ Recuerda que creaste un repositorio en github donde vamos a subir esta práctica
 
 ![Git remote](img/10.png)
 
-Ahora pega esa linea de comando en la terminal de esta manera
+Ahora pega esa linea de comando en la terminal de esta manera.
 
 ![Git remote](img/08.png)
 
