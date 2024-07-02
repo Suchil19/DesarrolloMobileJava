@@ -50,4 +50,4 @@ Git determina cómo combinar inteligentemente este flujo de cambios y GitHub te 
 
 - [Presentación - Sesión 03](presentacion/Sesion-03.pptx)
 - [Instrucciones - Configuración Github](instalacion-github/README.md)
-- [Instrucciones - Instalación de Git)](instalacion-git/README.md)
+- [Instrucciones - Instalación de Git](instalacion-git/README.md)
