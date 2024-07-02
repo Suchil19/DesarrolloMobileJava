@@ -44,8 +44,27 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 * Un mensaje similar a este te informará cuando se cree la configuración del proyecto.
  ![Creando Proyecto Android Studio](img/05.png)
 
+* Es posible que veas el panel What's New que contenga actualizaciones sobre funciones nuevas en Android Studio. Ciérralo por ahora.
 
-[Práctica 01](Practica-01)
+![Creando Proyecto Android Studio](img/06.png)
+
+* En la esquina superior derecha de Android Studio, haz clic en Split. Esto te permitirá ver tanto el código como el diseño. También puedes hacer clic en Code para ver solo el código, o bien en Design para ver solo el diseño.
+
+![Creando Proyecto Android Studio](img/07.png)
+
+* Después de presionar Split, deberías ver tres áreas:
+
+1. En la vista Project (1), se muestran los archivos y las carpetas de tu proyecto.
+2. En la vista Code (2), puedes editar el código.
+3. En la vista Design (3), se muestra una vista previa de cómo se ve tu app.
+
+![Creando Proyecto Android Studio](img/08.png)
+
+## Felicidades
+
+Acabas de crear tu primer proyecto e indtificaste las secciones que lo componen.
+
+
 
 ## 📝 Organización de la clase
 
