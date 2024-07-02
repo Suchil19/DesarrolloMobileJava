@@ -1,14 +1,15 @@
 # Sesión 02 - Pilares del Pensamiento Lógico Computacional  e Instalación de Android Studio
 
-En esta sesión conocerás los pilares del pensamiento lógico computacional y después empezaremos la instalación de nuestro entorno de desarrollo
+En esta sesión conocerás los pilares del pensamiento lógico computacional y después empezaremos la instalación de nuestro entorno de desarrollo (Android Studio).
+
+## 🎯 Objetivos
+
+* Definir los pilares del pensamiento lógico computacional y reflexionar sobre su importancia.
+* Instalar Android Studio
 
 ## Pilares del Pensamiento Lógico Computacional
 
 El pensamiento lógico computacional es una habilidad mental que nos permite analizar y resolver problemas de manera sistemática y lógica, este pensamiento tiene cuatro pilares fundamentales.
-
-## 🎯 Objetivo
-
-Conocer los pilares del pensamiento lógico computacional que nos permitirá resolver de problemas de nuestra vida cotidiana y llevar esta lógica de resolución de problemas al mundo digital, los pilares son los siguientes: 
 
 1. Descomposición:<br>
     - Ruptura de un problema en partes más pequeñas.
@@ -26,6 +27,9 @@ Conocer los pilares del pensamiento lógico computacional que nos permitirá res
 
 Después de repasar los pilares del pensamiento lógico computacional junto con un compañer@ realiza el análisis ocupando estos cuatro pilares  sobre un tema propuesto por algún compañero.
 
+    1. Este análisis consiste en valorar una actividad cotidiana y enlazarla con los pilares del pensamiento lógico computacional.
+    2. Se entregará una hoja al experto haciendo este análisis por equipos.
+
 # Comienza la instalación de AndroidStudio
 Android Studio es un entorno de desarrollo especializado en la creación de herramientas y apps para el sistema operativo Android.
 ![AndroidStudio](img/01.png)
@@ -40,11 +44,13 @@ Un IDE contiene herramientas que permiten a los desarrolladores de software dise
 
 * Ser capaz de descargar, instalar y actualizar software.
 
-## ¿Qué necesitas?
-
-Una computadora que ejecute una versión de 64 bits de Windows (8, 10 u 11), Linux, macOS (10.14 Mojave o una versión posterior) o Chrome OS
-Tener acceso a Internet en la computadora.
-<br>
+Tu equipo de cómputo debe cumplir con los siguientes requisitos.
+<ul>
+    <li> Microsoft® Windows® 8/10/11 de 64 bits </li>
+    <li> Arquitectura de CPU x86_64; procesador Intel Core de segunda generación o posterior, o CPU AMD compatible con un hipervisor de Windows </li>
+    <li>8 GB de RAM o más </li>
+    <li>8 GB de espacio disponible en el disco como mínimo (IDE + SDK de Android + Android Emulator) </li>
+</ul>
 
 ## Las instrucciones de instalación estan a continuación.
 
