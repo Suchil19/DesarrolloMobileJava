@@ -2,7 +2,7 @@
 Después de que configuraste tu entorno de desarrollo podrá ser capaz de crear un nuevo proyecto 
 
 ## 🎯 Objetivo
-
+Manejar Git y GitHub para el control de versiones
 
 ### Instrucciones
 
