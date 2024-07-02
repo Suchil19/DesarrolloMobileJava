@@ -5,7 +5,7 @@ En esta sesion empezaremos a configurar e identificar la estructura de un proyec
 
 Despúes de que descargaste Android Studio en esta sesión aprenderás como configurar tu entorno de desarrollo, crear nuevos proyectos y te vas a familiarizar con la interfaz de Android Studio.
 
-### Proyectos en clase
+### Práctica en clase
 
 La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienvenida parecida a la que tenemos aquí abajo.
 
@@ -15,7 +15,7 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 * En Android Studio, una plantilla de proyecto es un proyecto de Android que proporciona el plano para un tipo de app determinado. Las plantillas crean la estructura del proyecto y los archivos necesarios de modo que Android Studio compile tu proyecto. Según la plantilla que elijas, te brindará un código inicial para que puedas avanzar más rápido.
  ![Creando Proyecto Android Studio](img/03.png)
 <hr>
- 2. A continuación elegimos el templete para nuestra apliación, en nuestro caso elegimos **“Empty Activity”**.
+ 2. A continuación elegimos el templete para nuestra apliación, en nuestro caso elegimos Empty Activity.
 
  Haz clic en la plantilla **Empty Activity** para armar tu proyecto con ella. La plantilla Empty Compose Activity es la que permite crear un proyecto simple que puedes usar a fin de compilar una app de Compose. Tiene una sola pantalla y muestra el texto "Hello Android!"
 
@@ -50,5 +50,6 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 ## 📝 Organización de la clase
 
 - [Presentación - Sesión 03](presentacion/Sesion-03.pptx)
+- [Práctica](Practica-01)
 
 
