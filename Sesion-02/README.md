@@ -27,8 +27,8 @@ El pensamiento lógico computacional es una habilidad mental que nos permite ana
 
 Después de repasar los pilares del pensamiento lógico computacional junto con un compañer@ realiza el análisis ocupando estos cuatro pilares  sobre un tema propuesto por algún compañero.
 
-    1. Este análisis consiste en valorar una actividad cotidiana y enlazarla con los pilares del pensamiento lógico computacional.
-    2. Se entregará una hoja al experto haciendo este análisis por equipos.
+1. Este análisis consiste en valorar una actividad cotidiana y enlazarla con los pilares del pensamiento lógico computacional.
+2. Se entregará una hoja al experto haciendo este análisis por equipos.
 
 # Comienza la instalación de AndroidStudio
 Android Studio es un entorno de desarrollo especializado en la creación de herramientas y apps para el sistema operativo Android.
