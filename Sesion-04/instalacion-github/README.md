@@ -7,7 +7,7 @@ Para empezar a trabajar con GitHub, deberás crear una cuenta personal gratuita 
 
 ![GitHub](img/02.png)
 
-* Ahora crea un nombre de usuario, es importante ya que en un futuroo haremos referencia a ese nombre de usuario.
+* Ahora crea un nombre de usuario, es importante ya que en un futuro haremos referencia a ese nombre de usuario.
 
 ![GitHub](img/03.png)
 

@@ -2,7 +2,16 @@
 Después de que configuraste tu entorno de desarrollo podrá ser capaz de crear un nuevo proyecto y subir tus avances a un repositorio en GutHub usando Git. 
 
 ## 🎯 Objetivo
-Aprender a crear un nuevo proyecto de Java ádemas de Manejar Git y GitHub para el control de versiones.
+Aprender a crear un nuevo proyecto de Java, practicar con los tipos de datos ádemas de Manejar Git y GitHub para el control de versiones.
+
+## Descripción
+
+* En la programación existe el concepto de variable, que es un contenedor para un único dato. Puedes visualizarla como una caja que contiene un valor. Esa caja tiene una etiqueta, que es el nombre de la variable. Si te refieres a la caja por su nombre, tendrás acceso al valor que contiene.
+
+* Para poder usar una variable en tu código, primero debes definirla. Esto es lo que haremos en la siguiente práctica.
+
+[Práctica Tipos de datos](practica/README.md)
+
 
 # ¿Qué es Github?
 
@@ -48,6 +57,7 @@ Git determina cómo combinar inteligentemente este flujo de cambios y GitHub te 
 
 ## 📝 Organización de la clase
 
-- [Presentación - Sesión 03](presentacion/Sesion-03.pptx)
+- [Presentación - Sesión 04](presentacion/Sesion-04.pptx)
+- [Práctica Tipos de datos](practica/README.md)
 - [Instrucciones - Configuración Github](instalacion-github/README.md)
 - [Instrucciones - Instalación de Git](instalacion-git/README.md)
