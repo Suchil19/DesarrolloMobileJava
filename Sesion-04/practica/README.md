@@ -17,3 +17,16 @@ Tines que crear un proyecto nuevo, recuerda abrir Android Studio y en esta ocaci
 Tienes que crear un archivo de java llamado variables dentro de tu proyecto como se muestra a continuación.
 
   ![Creando Proyecto Android Studio](img/03.png)
+
+Ahora tienes que correr tu programa para mostrar el print que quieras mostrar, a continuación los ejemplos que veremos en la práctica, primero vas a identificar como se escribe un comentario, como se observa en la siguiente imagen.
+
+  ![Creando Proyecto Android Studio](img/p01.png)
+
+  Ahora vamos a comenzar a hablar de los valores **enteros** este grupo incluye byte, short, int y long. Estos tipos de datos nos permiten trabajar con números enteros ya sean positivos o negativos.
+
+    - long: bytes 8, rango (–9,223,372,036,854,775,808 a 9,223,372,036,854,775,807) 
+    - int: bytes 4, rango (–9,223,372,036,854,775,808 a 9,223,372,036,854,775,807)
+    - short bytes 2, rango (	–32,768 to 32,767)
+    - byte: bytes 1, rango (	–128 to 127)
+
+![Creando Proyecto Android Studio](img/p04.png)
