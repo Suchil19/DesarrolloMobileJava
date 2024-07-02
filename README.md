@@ -39,9 +39,9 @@ Este módulo se va a evaluar con un proyecto usando los siguientes temas:
 
 1. [Sesion 01](Sesion-01)&nbsp;Presentación e Introducción a Java (Conceptos Básicos)
 2. [Sesion 02](Sesion-02)&nbsp;Pensamiento Lógico Computacional e Introducción a Android Studio
-3. [Sesion 03](Sesion-03)&nbsp;Arquitectura de Android: Entornos de Desarrollo Android Studio
+3. [Sesion 03](Sesion-03)&nbsp;Entorno de desarrollo Android Studio e interfaces gráficas.
 4. [Sesion 04](Sesion-04)&nbsp;Tipos de datos y control de versiones
-5. Estructura de aplicaciones
-6. Codificando en Java
+5. Estructura de aplicaciones y Codificación en Java
+6. Vinculación Java y XML
 7. Programación de Actividades
 8. Conexión con servicios del dispositivo

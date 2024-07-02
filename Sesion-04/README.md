@@ -1,11 +1,11 @@
 # Sesión 04 - Tipos de Datos y control de versiones
-Después de que configuraste tu entorno de desarrollo podrá ser capaz de crear un nuevo proyecto 
+Después de que configuraste tu entorno de desarrollo podrá ser capaz de crear un nuevo proyecto y subir tus avances a un repositorio en GutHub usando Git. 
 
 ## 🎯 Objetivo
-Manejar Git y GitHub para el control de versiones
+Aprender a crear un nuevo proyecto de Java ádemas de Manejar Git y GitHub para el control de versiones.
 
 ### Instrucciones
-
+ 
 
 # Control de Versiones
 
