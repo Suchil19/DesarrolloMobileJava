@@ -1,8 +1,11 @@
 # Sesión 04 - Tipos de Datos y control de versiones
-Después de que configuraste tu entorno de desarrollo podrá ser capaz de crear un nuevo proyecto y subir tus avances a un repositorio en GutHub usando Git. 
+Al finalizar esta sesión, y luego de configurar tu entorno de desarrollo, serás capaz de crear un nuevo proyecto y subir tus avances a un repositorio en GitHub usando Git.
 
-## 🎯 Objetivo
-Aprender a crear un nuevo proyecto de Java, practicar con los tipos de datos ádemas de Manejar Git y GitHub para el control de versiones.
+## 🎯 Objetivos
+- Identificar tipos de datos y utilizarlos para la creación de un proyecto.
+- Definir las características de  Git y Github para el control de versiones
+- Crear un nuevo proyecto de Java
+
 
 ## Descripción
 
@@ -32,28 +35,31 @@ Aprender a crear un nuevo proyecto de Java, practicar con los tipos de datos ád
 
 # ¿Qué es Git?
 
-Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos. Git es especialmente útil cuando un grupo de personas y tú estáis haciendo cambios en los mismos archivos al mismo tiempo, y algunas de sus principales funciones son las siguientes:
+Git es un sistema de control de versiones distribuido que se ha convertido en el estándar para el desarrollo de software.
 
-- Git te permite poder controlar todos los cambios que se hacen en nuestra aplicación y en nuestro código
-- Con Git puedes trabajar de manera colaborativa.
-- Tendrás un listado de los cambios(commits) y podemos volver a cualquiera de esos cambios o commits.
+- A diferencia de sistemas anteriores en **Git** cada copia de trabajo del código es también un repositorio completo. Esto permite trabajar sin conexión o de forma remota con facilidad.
+- Git está optimizado para confirmar cambios, crear ramas, fusionar y comparar versiones anteriores.Con Git puedes trabajar de manera colaborativa.
+- No se basa en los nombres de archivos, sino en el contenido real de los archivos.Tendrás un listado de los cambios(commits) y podemos volver a cualquiera de esos cambios o commits.
 
 [Instalación paso a paso Git](instalacion-git/README.md)
 
 # ¿Cómo funcionan Git y GitHub juntos? 
 
-- Al cargar archivos en GitHub, los almacenas en un "repositorio de Git". Esto significa que al realizar cambios (o "compromisos") en los archivos de GitHub, Git se iniciará automáticamente para realizar un seguimiento y administrar los cambios.
+* GitHub utiliza Git para administrar los cambios en los archivos y proporciona una interfaz web para colaborar, revisar y administrar proyectos.
 
-- Hay muchas acciones relacionadas con Git que puedes completar en GitHub directamente en el navegador, como crear un repositorio de Git, crear ramas y cargar y editar archivos.
+* Git y GitHub son dos herramientas esenciales para el desarrollo de software y el control de versiones.
 
-- Sin embargo, la mayoría de las personas trabajan en sus archivos localmente (en su propio ordenador), luego sincronizan continuamente estos cambios locales y todos los datos de Git relacionados, con el repositorio central "remoto" en GitHub. Hay muchas herramientas que puedes usar para hacerlo, como GitHub Desktop.
+ - **Git**:
+   - Es un sistema de control de versiones distribuido.
+   - Guarda cada versión como una instantánea, lo que facilita la gestión de cambios.
+   - Permite a los desarrolladores trabajar en el mismo proyecto de forma independiente.
+   - Se utiliza localmente en tu máquina.
 
-- Cuando empieces a colaborar con otros y todos necesitéis trabajar en el mismo repositorio al mismo tiempo, haréis lo siguiente continuamente:
-
-- Extraer todos los cambios más recientes realizados por los colaboradores del repositorio remoto en GitHub.
-Transferir de vuelta los cambios al mismo repositorio remoto en GitHub.
-Git determina cómo combinar inteligentemente este flujo de cambios y GitHub te ayuda a administrar el flujo a través de características como "solicitudes de cambios".
-
+ - **GitHub**:
+   - Es una plataforma de alojamiento de repositorios Git.
+   - Almacena tus archivos en un repositorio de Git.
+   - Facilita la colaboración y el seguimiento de cambios.
+   - Permite a múltiples desarrolladores trabajar en un proyecto de forma remota.
 
 ## 📝 Organización de la clase
 
