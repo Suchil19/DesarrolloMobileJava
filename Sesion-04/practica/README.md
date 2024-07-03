@@ -10,11 +10,11 @@ Tines que crear un proyecto nuevo, recuerda abrir Android Studio y en esta ocaci
 
  ![Creando Proyecto Android Studio](img/01.png)
 
- Ahora tendremos que crear el proyecto y esperar a que los recursos cargen de forma correcta.
+ Ahora tendremos que crear el proyecto y esperar a que los recursos carguen de forma correcta.
 
   ![Creando Proyecto Android Studio](img/02.png)
 
-Tienes que crear un archivo de java llamado variables dentro de tu proyecto como se muestra a continuación.
+Tienes que crear un archivo de Java llamado variables dentro de tu proyecto como se muestra a continuación:
 
   ![Creando Proyecto Android Studio](img/03.png)
 
@@ -42,7 +42,7 @@ Ahora tienes que correr tu programa para mostrar el print que quieras mostrar, a
 
 ![Creando Proyecto Android Studio](img/float.png)
 
-## Relsutado
+## Resultado
 
 Recuerda estar monitoreando tus resultados para adquirir mayor práctica con los tipos de datos.
 
