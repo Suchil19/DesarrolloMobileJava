@@ -68,7 +68,8 @@ Acabas de crear tu primer proyecto e indtificaste las secciones que lo componen.
 
 ## 📝 Organización de la clase
 
-- [Presentación - Sesión 03](presentacion/Sesion-03.pptx)
 - [Práctica](Practica-01)
+- [Presentación - Sesión 03](presentacion/Sesion-03.pptx)
+
 
 
