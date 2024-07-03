@@ -27,15 +27,15 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 
 - 3.2 Deja el campo Package name como está. Así se organizarán los archivos en la estructura de archivos. En este caso, el nombre del paquete será com.example.greetingcard.
 
-3. Deja el campo Save location tal como está. Este contiene la ubicación en la que se guardan todos los archivos relacionados con tu proyecto. Toma nota de esa ubicación para encontrar tus archivos.
+- 3.3 Deja el campo Save location tal como está. Este contiene la ubicación en la que se guardan todos los archivos relacionados con tu proyecto. Toma nota de esa ubicación para encontrar tus archivos.
 
-4. En el campo Language, selecciona **Java**.
+- 3.4 En el campo Language, selecciona **Java**.
 
-5. Selecciona API 21: Android 5.0 (Lollipop) en el menú del campo Minimum SDK. Minimum SDK indica la versión mínima de Android en la que se puede ejecutar tu app.
+- 3.5 Selecciona API 21: Android 5.0 (Lollipop) en el menú del campo Minimum SDK. Minimum SDK indica la versión mínima de Android en la que se puede ejecutar tu app.
 
-6. La casilla de verificación Use legacy android.support libraries ya está desmarcada.
+- 3.6 La casilla de verificación Use legacy android.support libraries ya está desmarcada.
 
-* Haz clic en Finish. Ese proceso puede tardar un poco, así que aprovecha para disfrutar de un rico té. Mientras se configura Android Studio, un mensaje y una barra de progreso indicarán si aún se está configurando tu proyecto. Es posible que se vea de este modo:
+- 3.7 Haz clic en Finish. Ese proceso puede tardar un poco, así que aprovecha para disfrutar de un rico té. Mientras se configura Android Studio, un mensaje y una barra de progreso indicarán si aún se está configurando tu proyecto. Es posible que se vea de este modo:
 
  ![Creando Proyecto Android Studio](img/04.png)
 
