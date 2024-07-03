@@ -23,9 +23,9 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
  <hr>
  3. Vamos a configurar nuestro proyecto.
 
-    3.1 El campo Name se usa a fin de ingresar el nombre de tu proyecto. Para este tipo de codelab ingresa "Greeting Card".
+ - 3.1 El campo Name se usa a fin de ingresar el nombre de tu proyecto. Para este tipo de codelab ingresa "Greeting Card".
 
-2. Deja el campo Package name como está. Así se organizarán los archivos en la estructura de archivos. En este caso, el nombre del paquete será com.example.greetingcard.
+- 3.2 Deja el campo Package name como está. Así se organizarán los archivos en la estructura de archivos. En este caso, el nombre del paquete será com.example.greetingcard.
 
 3. Deja el campo Save location tal como está. Este contiene la ubicación en la que se guardan todos los archivos relacionados con tu proyecto. Toma nota de esa ubicación para encontrar tus archivos.
 
