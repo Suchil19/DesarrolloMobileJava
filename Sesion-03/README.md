@@ -1,9 +1,9 @@
 # Sesión 03 - Fundamentos Android e Introducción a Android Studio
-En esta sesion empezaremos a configurar e identificar la estructura de un proyecto básico de Android.
+En esta sesión serás capaz de identificar y configurar la estructura de un proyecto básico de Android.
 
 ## 🎯 Objetivo
 
-Despúes de que descargaste Android Studio en esta sesión aprenderás como configurar tu entorno de desarrollo, crear nuevos proyectos y te vas a familiarizar con la interfaz de Android Studio.
+Después de que descargaste Android Studio en esta sesión te vas a familiarizar con la interfaz de Android Studio, aprenderás cómo configurar tu entorno de desarrollo y cómo crear nuevos proyectos.
 
 ### Práctica en clase
 
@@ -12,7 +12,7 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 ![Creando Proyecto Android Studio](img/002.png)
 
 1. Para empezar a crear un proyecto nuevo, seleccionamos la opcion **Start a new Android Studio Project**.
-* En Android Studio, una plantilla de proyecto es un proyecto de Android que proporciona el plano para un tipo de app determinado. Las plantillas crean la estructura del proyecto y los archivos necesarios de modo que Android Studio compile tu proyecto. Según la plantilla que elijas, te brindará un código inicial para que puedas avanzar más rápido.
+* En Android Studio, una plantilla de proyecto proporciona el plano para un tipo de app determinado. Las plantillas crean la estructura del proyecto y los archivos necesarios de modo que Android Studio, compile tu proyecto. Según la plantilla que elijas, te brindará un código inicial para avanzar más rápido.
  ![Creando Proyecto Android Studio](img/03.png)
 <hr>
  2. A continuación elegimos el templete para nuestra apliación, en nuestro caso elegimos Empty Activity.
@@ -23,7 +23,7 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
  <hr>
  3. Vamos a configurar nuestro proyecto.
 
-1. El campo Name se usa a fin de ingresar el nombre de tu proyecto. Para este tipo de codelab ingresa "Greeting Card".
+    3.1 El campo Name se usa a fin de ingresar el nombre de tu proyecto. Para este tipo de codelab ingresa "Greeting Card".
 
 2. Deja el campo Package name como está. Así se organizarán los archivos en la estructura de archivos. En este caso, el nombre del paquete será com.example.greetingcard.
 
