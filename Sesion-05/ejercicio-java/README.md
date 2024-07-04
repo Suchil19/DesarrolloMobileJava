@@ -6,7 +6,7 @@
 
 ![Java](img/01.png)
 
-2. Crear el archivo: Puedes crear un archivo en la memoria interna o externa. Aquí tienes un ejemplo para crear un archivo en la memoria externa:
+2. Crear el archivo: Puedes crear un archivo en la memoria interna o externa. ejemplo para crear un archivo en la memoria externa:
 
 ![Java](img/02.png)
 

@@ -1,12 +1,30 @@
-## Sesion 04 - Ejemplo 02
+## Atributos de una clase
 
-### OBJETIVO 
- - Aprenderás acerca de atributos de una clase.
+* En Java, los atributos de una clase se definen dentro de la clase misma.
 
-#### REQUISITOS 
+## Requisitos 
 1. Android Studio
 2. Conocimientos elementales de programación. 
 
-#### DESARROLLO
-En este ejemplo crearemos atributos. Los atributos son variables que le pertenecen a cierto objeto, mismas que pueden editarse y usarse para definir descripciones del objeto. 
-Por cuestión de sentido común y cultura pop, usé ejemplo de Pokemon, pero puede ser cualquier otro ejemplo. 
+## Clase
+
+- Crea una clase utilizando la palabra clave class.
+El nombre de la clase debe ser único y significativo.
+
+ - Aprenderás acerca de atributos de una clase.
+
+![Atributos](img/01.png)
+
+## Atributos (Propiedades):
+* Declara las propiedades dentro de la clase.
+
+![Atributos](img/02.png/01.png)
+
+## Acceso a los Atributos:
+Puedes acceder a los atributos utilizando una instancia de la clase.
+
+
+
+
+
+

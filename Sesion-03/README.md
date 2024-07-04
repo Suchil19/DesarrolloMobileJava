@@ -39,7 +39,7 @@ La primera vez que iniciamos Android Studio nos monstrará una pantalla de bienv
 
  ![Creando Proyecto Android Studio](img/04.png)
 
-4. Vamos a explorar las partes que conforman nuestro proyecto. Recuerda que aquí encontrarás la práctica.
+4. Vamos a explorar las partes que conforman nuestro proyecto.
 
 * Un mensaje similar a este te informará cuando se cree la configuración del proyecto.
  ![Creando Proyecto Android Studio](img/05.png)
