@@ -59,8 +59,8 @@ Android Studio muestra los archivos de tu proyecto en la vista de proyecto de An
 - [Ejercicio res](ejercicio-res/README.md)
 * Prácticas Codificación en Java
 - [Objetos y clases](practica-objetos-clases/README.md)
-- [Atributos de una clase](ejercicio-manifest/README.md)
+- [Atributos de una clase](practica-atributos/README.md/README.md)
 - [Métodos de una clase](practica-metodos/README.md)
-- [Clases heredadas](ejercicio-manifest/README.md)
+- [Clases heredadas](practica-clases-heredadas/README.md)
 * Presentación
 - [Presentación - Sesión 03](presentacion/Sesion-05.pptx)
