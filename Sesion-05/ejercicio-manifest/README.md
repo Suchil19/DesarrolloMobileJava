@@ -31,7 +31,7 @@ El archivo AndroidManifest.xml describe la configuración de tu aplicación. Con
 
 ![Manifest](img/04.png)
 
-## Tu turno Agrega permisos
+## Tu, turno Agrega permisos
 
 - Haz clic con el botón derecho en la etiqueta de la aplicación en AndroidManifest.xml.
 - Selecciona “Generar” > “Etiqueta XML”.
