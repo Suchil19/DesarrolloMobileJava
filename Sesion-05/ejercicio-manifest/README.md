@@ -6,7 +6,7 @@
 
 El archivo AndroidManifest.xml describe la configuración de tu aplicación. Contiene información sobre componentes, permisos, versiones de Android compatibles y más.
 
-## Funciones principales y sus caractersticas
+## Funciones principales y sus características
 
 - Nombre del paquete: Define un nombre único para tu aplicación.
 - Componentes de la aplicación: Especifica las Activities, Services, Content Providers, etc.
@@ -19,7 +19,19 @@ El archivo AndroidManifest.xml describe la configuración de tu aplicación. Con
 
 ![Manifest](img/01.png)
 
-## Agrega permisos
+- Elemento raíz del fichero.
+
+![Manifest](img/02.png)
+
+- Especifica los Intents a los que puede responder.
+
+![Manifest](img/03.png)
+
+- Alias para la Activity
+
+![Manifest](img/04.png)
+
+## Tu turno Agrega permisos
 
 - Haz clic con el botón derecho en la etiqueta de la aplicación en AndroidManifest.xml.
 - Selecciona “Generar” > “Etiqueta XML”.
