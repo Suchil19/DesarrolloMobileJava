@@ -1,18 +1,20 @@
-## Sesion 05 - Reto 04
+## Clase heredada
 
-### OBJETIVO 
- - Uso de paquetes y dependencias ajenas a Android Studio.
+* Crear una clase heredada android : La herencia te permite reutilizar código y crear relaciones entre clases para modelar jerarquías de objetos.
 
-#### REQUISITOS 
-1. Android Studio
-2. Documentación de Android: Random (https://developer.android.com/reference/java/util/Random)
-3. Documentación de Android: Math (https://developer.android.com/reference/java/lang/Math)
+* Definición de la Clase Base:
+Crea una clase base utilizando la palabra clave class.
+El nombre de la clase base debe ser único y significativo.
 
-#### DESARROLLO
-Para este reto deberás de modificar el método "atacar" de tu Pokemon de la siguiente forma: 
-1.- Generar un número entero aleatorio con valores de 1 a 20 para representar el daño.
-2.- Generar un número doble (de punto flotante) aleatorio de 0 a 1.
-3.- Si el valor es mayor a 0.9, el valor aleatorio que representa el daño debe ser elevado al cuadrado
-4.- si en cambio, es menor a 0.1, el valor aleatorio que representa el daño debe ser cambiado a 0.
+Definición de la Clase Base:
+Crea una clase base utilizando la palabra clave class.
+El nombre de la clase base debe ser único y significativo.
 
-Con ello has utilizado la librería Random y la Librería Math para agregar aleatoriedad y operaciones numéricas a tus métodos y a tu App. 
+![Clase heredada](img/01.png)
+
+* Luego, crea la subclase que heredará de la clase base.
+Utiliza la palabra clave class seguida del nombre de la subclase y la palabra clave :, seguida del nombre de la clase base.
+
+![Clase heredada](img/02.png)
+
+* La herencia te permite reutilizar código y crear relaciones entre clases para modelar jerarquías de objetos. 
