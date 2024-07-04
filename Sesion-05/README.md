@@ -4,9 +4,14 @@ La estructura de un proyecto en Android Studio sigue una convención estándar q
 
 ## 🎯 Objetivo
 
-Identificar los módulos que incluye Android cuando creamos un proyecto.
+Identificar los módulos que incluye Android cuando creamos un proyecto. además aprenderás lo siguiente
 
-### Módulos
+* Crear objetos y clases en Java
+* Entender atributos
+* Entender métodos
+* Entender clases heredadas
+
+## Estructura de aplicaciones - Módulos
 
 * Módulos de apps para Android : son extensiones o complementos que permiten modificar o añadir funcionalidades al sistema operativo
 * Módulos de biblioteca: son componentes que permiten organizar y reutilizar código en proyectos
@@ -26,19 +31,36 @@ Android Studio muestra los archivos de tu proyecto en la vista de proyecto de An
     * **Permisos** El archivo de manifiest también declara los permisos que la app necesita para acceder a partes protegidas del sistema o a otras apps. Además, especifica permisos que otras apps deben tener para acceder al contenido de esta app.
 
     * **Características de hardware y software**: El manifiest también describe las características de hardware y software que la app requiere, lo que afecta qué dispositivos pueden instalar la app desde Google Play.
+- [Ejercicio Manifest](ejercicio-manifest/README.md)
 
 2. **java**: contiene el código fuente de tu aplicación, archivos de recursos y configuraciones específicas del nivel del módulo, como el archivo de compilación y el manifiest de Android.
+- [Ejercicio java](ejercicio-java/README.md)
 3. **res**: Contiene recursos esenciales para tu aplicación, como layouts, imágenes (drawables), strings, etc.
 
+- [Ejercicio res](ejercicio-res/README.md)
 
+# Codificación en Java
 
-## Felicidades
+* Aprenderás a crear objetos y clases en Java, respasarás atributos, métodos y clases heredadas.
 
+- **Objetos y clases**: Las clases son como planos de diseño para crear objetos y los objetos son instancias de una clase.
+- **Atributos de una clase**: son las propiedades o variables que comparten todos los objetos creados a partir de esa clase. Estas propiedades definen los atributos o características específicas de los objetos.
+- **Métodos de una clase**: son bloques de código que definen el comportamiento y las acciones que pueden realizar los objetos creados a partir de esa clase.
+- **Clases heredadas**: la herencia te permite construir jerarquías de clases y compartir funcionalidad entre ellas.
 
 
 
 
 ## 📝 Organización de la clase
 
-- [Práctica](Practica-01)
+* Estructura de aplicaciones
+- [Ejercicio Manifest](ejercicio-manifest/README.md)
+- [Ejercicio java](ejercicio-java/README.md)
+- [Ejercicio res](ejercicio-res/README.md)
+* Retos Codificación en Java
+- [Objetos y clases](reto-objetos-clases/README.md)
+- [Atributos de una clase](ejercicio-manifest/README.md)
+- [Métodos de una clase](ejercicio-manifest/README.md)
+- [Clases heredadas](ejercicio-manifest/README.md)
+* Presentación
 - [Presentación - Sesión 03](presentacion/Sesion-05.pptx)
