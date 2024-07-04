@@ -4,7 +4,7 @@ Está vinculación es fundamental para trabajar con datos estructurados en aplic
 
 * DOM (Document Object Model) Parsers:
 Los parsers DOM trabajan con todo el documento XML, cargándolo en memoria y construyendo una representación en forma de árbol. Esto permite acceder y manipular los elementos del XML.
-* Ejemplo de generación de un documento XML desde Java con DOM: Ver video.
+* Ejemplo de generación de un documento XML desde Java con DOM:
 JAXB (Java Architecture for XML Binding):
 JAXB es una API que facilita la vinculación entre objetos Java y documentos XML. Puedes trabajar cómodamente con XML y JSON utilizando anotaciones de JAXB.
 
