@@ -1,25 +1,29 @@
-# Sesión 04 - Estructura de aplicaciones
-Después de que el alumno configuro su entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. 
+# Sesión 07 - Programación de Activities
+
+ Las Activities son componentes fundamentales en Android Studio.
+
+ Una Activity es un componente de aplicación que proporciona una pantalla con la que los usuarios pueden interactuar. Por ejemplo, una Activity puede representar una pantalla para marcar el teléfono, tomar una foto, enviar un correo electrónico o ver un mapa.
+
+ Cada Activity se implementa como una subclase de la clase Activity. Proporciona la ventana en la que la aplicación dibuja su interfaz de usuario (UI). Generalmente, una Activity representa una sola pantalla en la aplicación
 
 ## 🎯 Objetivo
 
-Conocer la estructura de una aplicación Android.
+Creación de Activities
 
-Es muy importante entender cómo es que funcionan las aplicaciones. En este sentido, debes entender y aplicar correctamente debemos conocer los componentes principales de la aplicación como Activities, Services, Broadcast Receivers y Content Providers.  
+## Importancia de Activities
 
-* El alumno visualizara y comprenderá los siguientes terminos 
+Las aplicaciones móviles no siempre comienzan en el mismo lugar. Por ejemplo, al abrir una aplicación de correo electrónico desde la pantalla de inicio, verás una lista de correos. Sin embargo, si una aplicación de redes sociales lanza la aplicación de correo electrónico, irás directamente a la pantalla de creación de correos.
 
-* Activities: Son los bloques de construcción en las aplicaciones Android. Un Activity representa una pantalla donde el usuario podrá interactuar. 
+Cada Activity sirve como punto de entrada para la interacción del usuario con la aplicación. Implementas una Activity como una ventana o pantalla en la aplicación.
 
-* Services: Un Service es un componente que se ejecuta en segundo plano. 
+## Main Activitie
 
-* Broadcast Receivers: podremos recibir alertas del mismo dispositivo o de otros dispositivos. 
+En la mayoría de las aplicaciones, una Activity se especifica como la main activity, que es la primera pantalla que aparece cuando el usuario inicia la aplicación.
 
-* Content Providers: Gestionan datos de la aplicación.  
- 
+Cada Activity puede iniciar otra Activity para realizar diferentes acciones. Por ejemplo, una main activity de una aplicación de correo electrónico podría mostrar la bandeja de entrada y luego lanzar otras Activities para escribir correos o ver mensajes individuales.
 
-### Instrucciones
+## Práctica - Crear un botón con una imagen
 
-1. Después de que el alumno configuro su entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. Se creara un nuevo proyecto en Android Studio y vamos a elegir la opcion de “Empty Activity”, vamos a elegir el lenguaje de programación Java y nombraremos a este proyecto con el nombre de “Activity”.
+A continuación aprenderás a crear una activitie en Android Studio.
 
-2. Después de que el alumno configuro su entorno de desarrollo podrá ser capaz de crear un nuevo proyecto, para este ejercicio se necesita crear nuestro primer Activity, Service, alertas y gestionaremos los datos en un proyecto. 
+- [Ejercicio Activities](practica/README.md)

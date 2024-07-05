@@ -43,5 +43,5 @@ Este módulo se va a evaluar con un proyecto usando los siguientes temas:
 4. [Sesion 04](Sesion-04/README.md)&nbsp;Tipos de datos y control de versiones
 5. [Sesion 05](Sesion-05/README.md)&nbsp;Estructura de aplicaciones y Codificación en Java
 6. [Sesion 06](Sesion-06/README.md)&nbsp;Vinculación Java y XML
-7. Programación de Actividades
-8. Conexión con servicios del dispositivo
+7. [Sesion 07](Sesion-07/README.md)&nbsp;Programación de Actividades
+8. [Sesion 08](Sesion-08/README.md)&nbsp;Conexión con servicios del dispositivo

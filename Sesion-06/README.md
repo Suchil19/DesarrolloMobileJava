@@ -1,36 +1,21 @@
 ## Vinculación entre Java y XML 
 
-Está vinculación es fundamental para trabajar con datos estructurados en aplicaciones Java. 
+Esta vinculación es fundamental para trabajar con datos estructurados en aplicaciones Java. 
 
 * DOM (Document Object Model) Parsers:
 Los parsers DOM trabajan con todo el documento XML, cargándolo en memoria y construyendo una representación en forma de árbol. Esto permite acceder y manipular los elementos del XML.
 * Ejemplo de generación de un documento XML desde Java con DOM:
-JAXB (Java Architecture for XML Binding):
-JAXB es una API que facilita la vinculación entre objetos Java y documentos XML. Puedes trabajar cómodamente con XML y JSON utilizando anotaciones de JAXB.
+JAXB (Java Architecture for XML Binding): es una API que facilita la vinculación entre objetos Java y documentos XML. Puedes trabajar cómodamente con XML y JSON utilizando anotaciones de JAXB.
 
 * JiBX, JAXB y XMLBeans son otras opciones para vincular datos en XML con objetos Java. Estas librerías te permiten generar código Java a partir de un esquema XML. Puedes elegir la que mejor se adapte a tus necesidades.
 
 
-## OBJETIVOS 
- - Entender como es que Java y XML se combinan gracias al archivo R.java
- - Entender como es que modificando un objeto en Java, tiene impacto inmediato en la interfaz gráfica. 
- - Entender acerca de los onClickListener y como funcionan. 
- - Entender que pasa si se modifican propiedades de objetos con los ClickListeners. 
-
-
-## Vinculación Java y XML
-* La vinculación entre Java y XML es fundamental para trabajar con datos estructurados en aplicaciones Java. Aquí tienes algunas opciones para lograrlo:
-
-    * Parsers DOM (Document Object Model):
-    Los parsers DOM trabajan con todo el documento XML, cargándolo en memoria y construyendo una representación en forma de árbol. Esto permite acceder y manipular los elementos del XML. 
-
-    * Ejemplo de generación de un documento XML desde Java con DOM: Ver video2.
-    JAXB (Java Architecture for XML Binding):
-    JAXB es una API que facilita la vinculación entre objetos Java y documentos XML. Puedes trabajar cómodamente con XML y JSON utilizando anotaciones de JAXB. 
-    Librerías adicionales:
-
-    * JiBX, JAXB y XMLBeans son otras opciones para vincular datos en XML con objetos Java. Estas librerías te permiten generar código Java a partir de un esquema XML. Puedes elegir la que mejor se adapte a tus necesidades. Más información aquí
-    
+## 🎯 Objetivos
+- Entender como es que Java y XML se combinan gracias al archivo R.java
+- Entender como es que modificando un objeto en Java, tiene impacto inmediato en la interfaz gráfica.
+- Entender acerca de los onClickListener y como funcionan.
+- Entender que pasa si se modifican propiedades de objetos con los ClickListeners.
+ 
 - [Ejemplo 01](Ejemplo-01)
 
 ## Uso de OnClickListeners

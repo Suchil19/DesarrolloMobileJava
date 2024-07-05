@@ -41,7 +41,7 @@ Android Studio muestra los archivos de tu proyecto en la vista de proyecto de An
 
 # Codificación en Java
 
-* Aprenderás a crear objetos y clases en Java, respasarás atributos, métodos y clases heredadas.
+Aprenderás a crear objetos y clases en Java, respasarás atributos, métodos y clases heredadas.
 
 - **Objetos y clases**: Las clases son como planos de diseño para crear objetos y los objetos son instancias de una clase.
 - **Atributos de una clase**: son las propiedades o variables que comparten todos los objetos creados a partir de esa clase. Estas propiedades definen los atributos o características específicas de los objetos.
