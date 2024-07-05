@@ -1,4 +1,4 @@
-# Módulo: A1 - Java para Mobile
+# Módulo: A1 - Java para Mobile Bedu
 
 ## 👋 Bienvenid@s
 - Al finalizar este módulo serás capaz de crear tu propia App por medio de Android, configurando tu entorno de desarrollo, comprendiendo y utilizando mediante ejercicios prácticos el lenguaje Java en Android.

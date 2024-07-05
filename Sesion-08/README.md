@@ -1,4 +1,4 @@
-# Sesión 08 - Programación de Activities
+# Sesión 08 - Conexión con servicios del dispositivo
 
 
 ## 🎯 Objetivo
