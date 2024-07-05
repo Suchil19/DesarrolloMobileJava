@@ -7,3 +7,6 @@
 - En la Actividad2, recibe el Intent y muestra el resultado en un TextView.
 
 ![Activitie](img/02.png)
+
+
+- [Práctica Activitie](practica)

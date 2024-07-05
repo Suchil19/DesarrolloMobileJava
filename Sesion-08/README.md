@@ -45,7 +45,6 @@ Puedes buscar lugares en Google Maps desde una aplicación creada en Android Stu
 - [Ejercicio Intents](ejercicio-intents/README.md)
 - [Ejercicio correos electrónicos ](ejercicio-correos/README.md)
 - [Ejercicio maps](ejercicio-maps/README.md)
-Presentación
 - [Presentación - Sesión 08](presentacion/Sesion-08.pptx)
 
 

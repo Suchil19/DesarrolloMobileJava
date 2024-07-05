@@ -42,4 +42,5 @@ Crear un botón con una imagen en Android Studio es una tarea útil y visualment
 
 ![Activitie](img/01.png)
 
-Ahora tienes un botón con una imagen que abre una segunda actividad en tu aplicación
+Ahora tienes un botón con una imagen que abre una segunda actividad en tu aplicación.
+
