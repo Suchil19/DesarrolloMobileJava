@@ -1,6 +1,6 @@
 # Sesión 07 - Programación de Activities
 
- Las Activities son componentes fundamentales en Android Studio.
+ Los Activities son componentes fundamentales en Android Studio.
 
  Una Activity es un componente de aplicación que proporciona una pantalla con la que los usuarios pueden interactuar. Por ejemplo, una Activity puede representar una pantalla para marcar el teléfono, tomar una foto, enviar un correo electrónico o ver un mapa.
 
