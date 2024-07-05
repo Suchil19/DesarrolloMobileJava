@@ -7,47 +7,45 @@
 - Buscarás lugares con google maps desde tu App.
 - Conectarás tu app Al servicio de llamadas de Android.
 
-## Importancia de Activities
+## Importancia de los Intents
 
-Las aplicaciones móviles no siempre comienzan en el mismo lugar. Por ejemplo, al abrir una aplicación de correo electrónico desde la pantalla de inicio, verás una lista de correos. Sin embargo, si una aplicación de redes sociales lanza la aplicación de correo electrónico, irás directamente a la pantalla de creación de correos.
+Los intents en Android son objetos que nos permiten invocar componentes, como activities, services, broadcast receivers y proveedores de contenido. Básicamente, los intents nos ayudan a lograr lo siguiente:
 
-Cada Activity sirve como punto de entrada para la interacción del usuario con la aplicación. Implementas una Activity como una ventana o pantalla en la aplicación.
+1. Llamar a aplicaciones externas: Podemos usar intents para abrir otras aplicaciones desde la nuestra, como el navegador web o el marcador telefónico.
+2. Lanzar eventos a los que otras aplicaciones puedan responder: Por ejemplo, podemos enviar un intent para compartir contenido en redes sociales o enviar un correo electrónico.
+3. Lanzar alarmas: Si necesitamos programar una alarma o recordatorio, los intents nos permiten hacerlo.
 
-## Main Activitie
+![Intents](img/01.png)
 
-En la mayoría de las aplicaciones, una Activity se especifica como la main activity, que es la primera pantalla que aparece cuando el usuario inicia la aplicación.
+Para usar intents, primero debemos registrar nuestras actividades en el archivo AndroidManifest.xml. Luego, podemos invocar esas actividades mediante un intent. Aquí tienes un ejemplo:
 
-Cada Activity puede iniciar otra Activity para realizar diferentes acciones. Por ejemplo, una main activity de una aplicación de correo electrónico podría mostrar la bandeja de entrada y luego lanzar otras Activities para escribir correos o ver mensajes individuales.
+![Intents](img/02.png)
 
 ## Intent
+
+Objetos que nos permiten invocar componentes
 
 - [Ejercicio Intents](ejercicio-intents/README.md)
 
 ## Envío de correos electrónicos por Intent
 
+ Es posible enviar correos electrónicos desde una aplicación creada en Android Studio. A continuación un ejemplo.
+
 - [Ejercicio correos electrónicos ](ejercicio-correos/README.md)
 
 ## Búsqueda lugares con Google Maps
+Puedes buscar lugares en Google Maps desde una aplicación creada en Android Studio
 
 - [Ejercicio maps](ejercicio-maps/README.md)
 
 
-## Ejercicio - Crear un botón con una imagen
-
-Crear un botón con una imagen en Android Studio
-
-- [Ejercicio Activities](ejercicio/README.md)
-
-## Práctica
-
-Aprenderás a trabajar con dos actividades en Android Studio:
-
-- [Práctica Activities](practica/README.md)
-
 
 ## 📝 Organización de la clase
 
-- [Práctica](practica/README.md)
-- [Presentación - Sesión 07](presentacion/Sesion-07.pptx)
+- [Ejercicio Intents](ejercicio-intents/README.md)
+- [Ejercicio correos electrónicos ](ejercicio-correos/README.md)
+- [Ejercicio maps](ejercicio-maps/README.md)
+Presentación
+- [Presentación - Sesión 08](presentacion/Sesion-08.pptx)
 
 
