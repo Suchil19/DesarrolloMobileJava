@@ -1,4 +1,4 @@
-# Sesión 07 - Programación de Activities
+# Sesión 08 - Programación de Activities
 
 
 ## 🎯 Objetivo

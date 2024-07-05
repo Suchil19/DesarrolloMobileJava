@@ -1,4 +1,8 @@
-## Envío de correos electrónicos por Intent
+## Búsqueda lugares con Google Maps
 
-Es posible enviar correos electrónicos desde una aplicación creada en Android Studio. Para lograrlo, puedes utilizar las API de correo electrónico proporcionadas por Google en su biblioteca de servicios de Google Play. 
-Aquí tienes un ejemplo de cómo enviar un correo electrónico utilizando un Intent:
+* Crea un proyecto en Android Studio:
+    - Abre Android Studio y selecciona “Nuevo Proyecto”.
+    - Elige “Sin Actividad” en la categoría “Teléfono y Tablet”.
+    - Completa el formulario:
+    - Establece el lenguaje (Java o Kotlin).
+    - Selecciona una versión de SDK compatible con tu dispositivo de prueba (mínimo Android API Level 21 o superior).
