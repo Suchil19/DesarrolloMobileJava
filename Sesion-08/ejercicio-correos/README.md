@@ -20,3 +20,4 @@ Si quieres más control sobre el proceso de envío de correos electrónicos, pue
 Luego, puedes implementar la lógica de envío de correos electrónicos utilizando JavaMail. Ten en cuenta que este enfoque requiere configurar correctamente las credenciales del servidor de correo saliente (SMTP).
 
 - [Ejercicio correos](practica)
+
