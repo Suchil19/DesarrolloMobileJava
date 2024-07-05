@@ -22,8 +22,31 @@ En la mayoría de las aplicaciones, una Activity se especifica como la main acti
 
 Cada Activity puede iniciar otra Activity para realizar diferentes acciones. Por ejemplo, una main activity de una aplicación de correo electrónico podría mostrar la bandeja de entrada y luego lanzar otras Activities para escribir correos o ver mensajes individuales.
 
-## Práctica - Crear un botón con una imagen
+## Intent
+Un intent es un objeto que declara la intención de realizar una acción. Básicamente, es una descripción de lo que tu app desea hacer. Hay dos tipos principales de intents:
 
-A continuación aprenderás a crear una activitie en Android Studio.
 
-- [Ejercicio Activities](practica/README.md)
+1. Intent explícito: Se utiliza para navegar a una actividad específica dentro de tu propia app. Por ejemplo, si tienes una app con varias pantallas, puedes usar un intent explícito para pasar de una pantalla a otra.
+
+2. Intent implícito: Este tipo de intent se utiliza para interactuar con otras apps o componentes del sistema. Por ejemplo, puedes usar un intent implícito para abrir el navegador web o compartir contenido en redes sociales.
+
+
+## Ejercicio - Crear un botón con una imagen
+
+Crear un botón con una imagen en Android Studio
+
+- [Ejercicio Activities](ejercicio/README.md)
+
+## Práctica
+
+Aprenderás a trabajar con dos actividades en Android Studio:
+
+- [Práctica Activities](practica/README.md)
+
+
+## 📝 Organización de la clase
+
+- [Práctica](practica/README.md)
+- [Presentación - Sesión 07](presentacion/Sesion-07.pptx)
+
+
