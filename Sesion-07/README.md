@@ -4,7 +4,7 @@
 
  Una Activity es un componente de aplicación que proporciona una pantalla con la que los usuarios pueden interactuar. Por ejemplo, una Activity puede representar una pantalla para marcar el teléfono, tomar una foto, enviar un correo electrónico o ver un mapa.
 
- Cada Activity se implementa como una subclase de la clase Activity. Proporciona la ventana en la que la aplicación dibuja su interfaz de usuario (UI). Generalmente, una Activity representa una sola pantalla en la aplicación
+ Cada Activity se implementa como una subclase de la clase Activity. Proporciona la ventana en la que la aplicación dibuja su interfaz de usuario (UI). Generalmente, una Activity representa una sola pantalla en la aplicación.
 
 ## 🎯 Objetivo
 

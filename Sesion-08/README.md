@@ -1,14 +1,11 @@
 # Sesión 07 - Programación de Activities
 
- Los Activities son componentes fundamentales en Android Studio.
-
- Una Activity es un componente de aplicación que proporciona una pantalla con la que los usuarios pueden interactuar. Por ejemplo, una Activity puede representar una pantalla para marcar el teléfono, tomar una foto, enviar un correo electrónico o ver un mapa.
-
- Cada Activity se implementa como una subclase de la clase Activity. Proporciona la ventana en la que la aplicación dibuja su interfaz de usuario (UI). Generalmente, una Activity representa una sola pantalla en la aplicación
 
 ## 🎯 Objetivo
-
-Creación de Activities
+- Aprenderás acerca de las llamadas a intent fuera de tu App hacia otras.
+- Aprenderás a enviar correos electrónicos.
+- Buscarás lugares con google maps desde tu App.
+- Conectarás tu app Al servicio de llamadas de Android.
 
 ## Importancia de Activities
 
@@ -23,12 +20,16 @@ En la mayoría de las aplicaciones, una Activity se especifica como la main acti
 Cada Activity puede iniciar otra Activity para realizar diferentes acciones. Por ejemplo, una main activity de una aplicación de correo electrónico podría mostrar la bandeja de entrada y luego lanzar otras Activities para escribir correos o ver mensajes individuales.
 
 ## Intent
-Un intent es un objeto que declara la intención de realizar una acción. Básicamente, es una descripción de lo que tu app desea hacer. Hay dos tipos principales de intents:
 
+- [Ejercicio Intents](ejercicio-intents/README.md)
 
-1. Intent explícito: Se utiliza para navegar a una actividad específica dentro de tu propia app. Por ejemplo, si tienes una app con varias pantallas, puedes usar un intent explícito para pasar de una pantalla a otra.
+## Envío de correos electrónicos por Intent
 
-2. Intent implícito: Este tipo de intent se utiliza para interactuar con otras apps o componentes del sistema. Por ejemplo, puedes usar un intent implícito para abrir el navegador web o compartir contenido en redes sociales.
+- [Ejercicio correos electrónicos ](ejercicio-correos/README.md)
+
+## Búsqueda lugares con Google Maps
+
+- [Ejercicio maps](ejercicio-maps/README.md)
 
 
 ## Ejercicio - Crear un botón con una imagen
