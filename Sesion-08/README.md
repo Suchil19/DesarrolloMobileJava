@@ -2,10 +2,11 @@
 
 
 ## 🎯 Objetivo
-- Aprenderás acerca de las llamadas a intent fuera de tu App hacia otras.
-- Aprenderás a enviar correos electrónicos.
-- Buscarás lugares con google maps desde tu App.
-- Conectarás tu app Al servicio de llamadas de Android.
+- Describir cómo utilizar intents para interactuar con otras aplicaciones en Android.
+- Aplicar el proceso de envío de correos electrónicos utilizando las APIs o bibliotecas adecuadas.
+- Integrar la funcionalidad de búsqueda a través de Google Maps.
+- Analizar y configurar la conexión de una aplicación Android con el servicio de llamadas.
+
 
 ## Importancia de los Intents
 
@@ -21,9 +22,8 @@ Para usar intents, primero debemos registrar nuestras actividades en el archivo 
 
 ![Intents](img/02.png)
 
-## Intent
+## Una llamada a la acción para las actividades
 
-Objetos que nos permiten invocar componentes
 
 - [Ejercicio Intents](ejercicio-intents/README.md)
 

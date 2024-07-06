@@ -2,8 +2,6 @@
 
 1. Configura tu entorno de desarrollo
 
-Asegúrate de tener un dispositivo Android o un emulador con Google APIs (Android 5.0 o superior).
-
 2. Crea un proyecto en Android Studio:
     - Abre Android Studio y selecciona “Nuevo Proyecto”.
     - Elige “Sin Actividad” en la categoría “Teléfono y Tablet”.
@@ -16,6 +14,3 @@ Asegúrate de tener un dispositivo Android o un emulador con Google APIs (Androi
 
 ![Maps](img/01.png)
 
-Ahora continuamos con un ejercicio.
-
-- [Ejercicio correos](practica)

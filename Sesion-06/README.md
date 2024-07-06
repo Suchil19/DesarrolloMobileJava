@@ -11,10 +11,11 @@ JAXB (Java Architecture for XML Binding): es una API que facilita la vinculació
 
 
 ## 🎯 Objetivos
-- Entender como es que Java y XML se combinan gracias al archivo R.java
-- Entender como es que modificando un objeto en Java, tiene impacto inmediato en la interfaz gráfica.
-- Entender acerca de los onClickListener y como funcionan.
-- Entender que pasa si se modifican propiedades de objetos con los ClickListeners.
+- Identificar cómo Java y XML se combinan gracias al archivo R.java
+- Identificar el impacto de la modificación de un objeto en Java, en la interfaz gráfica.
+- Definir el funcionamiento de los  onClickListener.
+- Comprender el impacto de las modificaciones a los objetos con los ClickListeners.
+
  
 - [Ejemplo 01](Ejemplo-01)
 
@@ -27,12 +28,7 @@ Implementando View.OnClickListener en la actividad o fragmento:
 Puedes hacer que tu actividad o fragmento implemente directamente la interfaz View.OnClickListener. Luego, sobrescribe el método onClick(View view) para manejar el evento de clic:
 
 
-- Alterando propiedades con java y onClickListener	
-	- [Ejemplo 03](Ejemplo-03)
-	- [Reto 04](Reto-04)
-
-
 ## 📝 Organización de la clase
 
-- [Práctica](Practica-06)
+- [Ejemplo](Ejemplo-01)
 - [Presentación - Sesión 06](presentacion/Sesion-06.pptx)

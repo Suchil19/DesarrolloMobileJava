@@ -1,4 +1,4 @@
-## Crearás una carpeta res y agregarás un recurso multimedia.
+## Crear una carpeta res y agregar un recurso multimedia.
 Recuerda que la carpeta res es fundamental para organizar los recursos de tu aplicación, como imágenes, layouts y valores, tienes dos opciones para agregar recursos multimedia.
 
 ## Método 1: Arrastrar y soltar
@@ -17,10 +17,10 @@ Recuerda que la carpeta res es fundamental para organizar los recursos de tu apl
 6. Haz clic en “Finish”.
 
 * Para referenciar una imagen en tu código de Android Studio, sigue estos pasos:
+- Asegúrate de que la imagen esté en la carpeta res/drawable.
+- Usa el ID de la imagen en res/drawable:
+- En tu código, utiliza el método setImageResource() en un ImageView para asignar la imagen. Por ejemplo, si tu imagen se llama “imagen_test.png”, el código sería el siguiente:
 
-- Identificar los módulos que incluye Android cuando - creamos un proyecto.
-- Comprender atributos, métodos y clases heredadas.
-- Crear objetos y clases en Java
 
 
 ![Manifest](img/01.png)

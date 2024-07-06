@@ -1,4 +1,4 @@
-## Intents
+## Intents para generar llamadas telefónicas
 
 En Android Studio, puedes utilizar Intents para comunicarte con otras aplicaciones o componentes del sistema.
 

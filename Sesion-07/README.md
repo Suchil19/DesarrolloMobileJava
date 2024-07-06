@@ -8,15 +8,22 @@
 
 ## 🎯 Objetivo
 
-Creación de Activities
+- Identificar las características de un “Activity”
+- Comprender la secuencia para accionar Actividades en la aplicación
+- Crear una Activity
+
 
 ## Importancia de Activities
 
 Las aplicaciones móviles no siempre comienzan en el mismo lugar. Por ejemplo, al abrir una aplicación de correo electrónico desde la pantalla de inicio, verás una lista de correos. Sin embargo, si una aplicación de redes sociales lanza la aplicación de correo electrónico, irás directamente a la pantalla de creación de correos.
 
+![Activities](img/01.png)
+
 Cada Activity sirve como punto de entrada para la interacción del usuario con la aplicación. Implementas una Activity como una ventana o pantalla en la aplicación.
 
-## Main Activitie
+![Activities](img/02.png)
+
+## **Main Activitie**
 
 En la mayoría de las aplicaciones, una Activity se especifica como la main activity, que es la primera pantalla que aparece cuando el usuario inicia la aplicación.
 
